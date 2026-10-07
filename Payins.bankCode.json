@@ -1,0 +1,6911 @@
+[
+  {
+    "name": "Banco do Brasil S.A.",
+    "code": "001",
+    "country": "BR",
+    "acronym": "BB",
+    "bankCode": "00000000"
+  },
+  {
+    "name": "Banco BRB",
+    "code": "070",
+    "country": "BR",
+    "acronym": "BRB",
+    "bankCode": "00000208"
+  },
+  {
+    "name": "Caixa Econômica Federal",
+    "code": "104",
+    "country": "BR",
+    "acronym": "CEF",
+    "bankCode": "360305"
+  },
+  {
+    "name": "Banco Inter S.A.",
+    "code": "077",
+    "country": "BR",
+    "acronym": "INTER",
+    "bankCode": "416968"
+  },
+  {
+    "name": "Sicredi",
+    "code": "748",
+    "country": "BR",
+    "acronym": "SIC",
+    "bankCode": "1181521"
+  },
+  {
+    "name": "Banco Cooperativo Sicoob S.A.",
+    "code": "756",
+    "country": "BR",
+    "acronym": "SICOOB",
+    "bankCode": "2038232"
+  },
+  {
+    "name": "Goldman Sachs do Brasil",
+    "code": "064",
+    "country": "BR",
+    "acronym": "GS",
+    "bankCode": "00001180"
+  },
+  {
+    "name": "Banco Inbursa S.A.",
+    "code": "012",
+    "country": "BR",
+    "acronym": "INB",
+    "bankCode": "4866275"
+  },
+  {
+    "name": "Banco do Nordeste do Brasil S.A.",
+    "code": "004",
+    "country": "BR",
+    "acronym": "BNB",
+    "bankCode": "7237373"
+  },
+  {
+    "name": "PicPay Bank S.A.",
+    "code": "380",
+    "country": "BR",
+    "acronym": "PICPAY",
+    "bankCode": "9516419"
+  },
+  {
+    "name": "Banco Agibank S.A.",
+    "code": "121",
+    "country": "BR",
+    "acronym": "AGI",
+    "bankCode": "10664513"
+  },
+  {
+    "name": "Paraná Banco S.A.",
+    "code": "254",
+    "country": "BR",
+    "acronym": "PB",
+    "bankCode": "14388334"
+  },
+  {
+    "name": "Banco Mercantil do Brasil S.A.",
+    "code": "389",
+    "country": "BR",
+    "acronym": "BMB",
+    "bankCode": "17184037"
+  },
+  {
+    "name": "Banco Digio S.A.",
+    "code": "335",
+    "country": "BR",
+    "acronym": "DIGIO",
+    "bankCode": "27098060"
+  },
+  {
+    "name": "Banco do Estado do Espírito Santo S.A.",
+    "code": "021",
+    "country": "BR",
+    "acronym": "BANESTES",
+    "bankCode": "32428294"
+  },
+  {
+    "name": "Banco BTG Pactual S.A.",
+    "code": "208",
+    "country": "BR",
+    "acronym": "BTG",
+    "bankCode": "30306294"
+  },
+  {
+    "name": "Banco C6 S.A.",
+    "code": "336",
+    "country": "BR",
+    "acronym": "C6",
+    "bankCode": "31872495"
+  },
+  {
+    "name": "Banco XP S.A.",
+    "code": "348",
+    "country": "BR",
+    "acronym": "XP",
+    "bankCode": "33264668"
+  },
+  {
+    "name": "Banco Safra S.A.",
+    "code": "422",
+    "country": "BR",
+    "acronym": "SAFRA",
+    "bankCode": "58160789"
+  },
+  {
+    "name": "Banco Pan S.A.",
+    "code": "623",
+    "country": "BR",
+    "acronym": "PAN",
+    "bankCode": "59285411"
+  },
+  {
+    "name": "Banco Votorantim S.A.",
+    "code": "655",
+    "country": "BR",
+    "acronym": "BV",
+    "bankCode": "59588111"
+  },
+  {
+    "name": "Itaú Unibanco S.A.",
+    "code": "341",
+    "country": "BR",
+    "acronym": "ITAU",
+    "bankCode": "60701190"
+  },
+  {
+    "name": "Banco Bradesco S.A.",
+    "code": "237",
+    "country": "BR",
+    "acronym": "BBDC",
+    "bankCode": "60746948"
+  },
+  {
+    "name": "Banco Crefisa S.A.",
+    "code": "069",
+    "country": "BR",
+    "acronym": "CREFISA",
+    "bankCode": "61033106"
+  },
+  {
+    "name": "Banco BMG S.A.",
+    "code": "318",
+    "country": "BR",
+    "acronym": "BMG",
+    "bankCode": "61186680"
+  },
+  {
+    "name": "Banco Daycoval S.A.",
+    "code": "707",
+    "country": "BR",
+    "acronym": "DAYCOVAL",
+    "bankCode": "62232889"
+  },
+  {
+    "name": "Banco Santander S.A.",
+    "code": "033",
+    "country": "BR",
+    "acronym": "SAN",
+    "bankCode": "90400888"
+  },
+  {
+    "name": "Banco do Estado do Rio Grande do Sul S.A.",
+    "code": "041",
+    "country": "BR",
+    "acronym": "BANRISUL",
+    "bankCode": "25683475"
+  },
+  {
+    "name": "Banco Original S.A.",
+    "code": "212",
+    "country": "BR",
+    "acronym": "ORIG",
+    "bankCode": "92894922"
+  },
+  {
+    "name": "Nubank",
+    "code": "260",
+    "country": "BR",
+    "acronym": "NU",
+    "bankCode": "18236120"
+  },
+  {
+    "name": "7TRUST FINANCE & TAX ASSET",
+    "code": "",
+    "country": "BR",
+    "acronym": "7TRUST FINANCE & TAX ASSET",
+    "bankCode": "33930368"
+  },
+  {
+    "name": "99PAY IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "99PAY IP S.A.",
+    "bankCode": "24313102"
+  },
+  {
+    "name": "A BANK",
+    "code": "",
+    "country": "BR",
+    "acronym": "A BANK",
+    "bankCode": "33330067"
+  },
+  {
+    "name": "A27 IP S/A",
+    "code": "",
+    "country": "BR",
+    "acronym": "A27 IP S/A",
+    "bankCode": "35534511"
+  },
+  {
+    "name": "A55 SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "A55 SCD S.A.",
+    "bankCode": "48756121"
+  },
+  {
+    "name": "ACCREDITO SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "ACCREDITO SCD S.A.",
+    "bankCode": "37715993"
+  },
+  {
+    "name": "ACESSO SOLUÃÃES DE PAGAMENTO S.A. - INSTITUIÃÃO DE PAGAMENTO",
+    "code": "",
+    "country": "BR",
+    "acronym": "ACESSO SOLUÃÃES DE PAGAMENTO S.A. - INSTITUIÃÃO DE PAGAMENTO",
+    "bankCode": "13140088"
+  },
+  {
+    "name": "ACG IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "ACG IP S.A.",
+    "bankCode": "10868663"
+  },
+  {
+    "name": "ADYEN DO BRASIL IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "ADYEN DO BRASIL IP LTDA.",
+    "bankCode": "14796606"
+  },
+  {
+    "name": "AILOG IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "AILOG IP LTDA.",
+    "bankCode": "7398335"
+  },
+  {
+    "name": "AL5 S.A. CFI",
+    "code": "",
+    "country": "BR",
+    "acronym": "AL5 S.A. CFI",
+    "bankCode": "27214112"
+  },
+  {
+    "name": "ALIPAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "ALIPAY",
+    "bankCode": "32246162"
+  },
+  {
+    "name": "ALL IN CRED SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "ALL IN CRED SCD S.A.",
+    "bankCode": "51414521"
+  },
+  {
+    "name": "AN SPACE PAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "AN SPACE PAY",
+    "bankCode": "22443203"
+  },
+  {
+    "name": "APE POUPEX",
+    "code": "",
+    "country": "BR",
+    "acronym": "APE POUPEX",
+    "bankCode": "655522"
+  },
+  {
+    "name": "APROMS NET IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "APROMS NET IP LTDA.",
+    "bankCode": "37168145"
+  },
+  {
+    "name": "APTARE",
+    "code": "",
+    "country": "BR",
+    "acronym": "APTARE",
+    "bankCode": "16876258"
+  },
+  {
+    "name": "AQBANK",
+    "code": "",
+    "country": "BR",
+    "acronym": "AQBANK",
+    "bankCode": "377239"
+  },
+  {
+    "name": "ARTTA SCD",
+    "code": "",
+    "country": "BR",
+    "acronym": "ARTTA SCD",
+    "bankCode": "42259084"
+  },
+  {
+    "name": "ASA SOCIEDADE DE CRÃDITO DIRETO S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "ASA SOCIEDADE DE CRÃDITO DIRETO S.A.",
+    "bankCode": "48703388"
+  },
+  {
+    "name": "ASAAS IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "ASAAS IP S.A.",
+    "bankCode": "19540550"
+  },
+  {
+    "name": "ASTROPAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "ASTROPAY",
+    "bankCode": "34006497"
+  },
+  {
+    "name": "ATF SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "ATF SCD S.A.",
+    "bankCode": "44728700"
+  },
+  {
+    "name": "ATICCA SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "ATICCA SCD S.A.",
+    "bankCode": "44478623"
+  },
+  {
+    "name": "AUTHPAY INSTITUICAO DE PAGAMEN",
+    "code": "",
+    "country": "BR",
+    "acronym": "AUTHPAY INSTITUICAO DE PAGAMEN",
+    "bankCode": "18639407"
+  },
+  {
+    "name": "AZIMUT BRASIL DTVM LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "AZIMUT BRASIL DTVM LTDA",
+    "bankCode": "18684408"
+  },
+  {
+    "name": "BANCO BARI S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO BARI S.A.",
+    "bankCode": "556603"
+  },
+  {
+    "name": "BANCO BTG PACTUAL S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO BTG PACTUAL S.A.",
+    "bankCode": "30306294"
+  },
+  {
+    "name": "BANCO DIGIO",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO DIGIO",
+    "bankCode": "27098060"
+  },
+  {
+    "name": "BANCO GENIAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO GENIAL",
+    "bankCode": "45246410"
+  },
+  {
+    "name": "BANCO INBURSA",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO INBURSA",
+    "bankCode": "4866275"
+  },
+  {
+    "name": "BANCO INTER",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO INTER",
+    "bankCode": "416968"
+  },
+  {
+    "name": "BANCO MASTER",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO MASTER",
+    "bankCode": "33923798"
+  },
+  {
+    "name": "BANCO ORIGINAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO ORIGINAL",
+    "bankCode": "92894922"
+  },
+  {
+    "name": "BANCO PAN",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO PAN",
+    "bankCode": "59285411"
+  },
+  {
+    "name": "BANCO RANDON S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO RANDON S.A.",
+    "bankCode": "11476673"
+  },
+  {
+    "name": "BANCO SEMEAR",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO SEMEAR",
+    "bankCode": "795423"
+  },
+  {
+    "name": "BANCO SICOOB S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO SICOOB S.A.",
+    "bankCode": "2038232"
+  },
+  {
+    "name": "BANCO TOPÃZIO S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO TOPÃZIO S.A.",
+    "bankCode": "7679404"
+  },
+  {
+    "name": "BANCO TRAVELEX S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO TRAVELEX S.A.",
+    "bankCode": "11703662"
+  },
+  {
+    "name": "BANCO ÃTIL",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO ÃTIL",
+    "bankCode": "15320615"
+  },
+  {
+    "name": "BANCO VOITER",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANCO VOITER",
+    "bankCode": "61024352"
+  },
+  {
+    "name": "BANKOSO INSTITUICAO DE PAGAMEN",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANKOSO INSTITUICAO DE PAGAMEN",
+    "bankCode": "32053736"
+  },
+  {
+    "name": "BANKROW IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANKROW IP S.A.",
+    "bankCode": "34837066"
+  },
+  {
+    "name": "BANQI",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANQI",
+    "bankCode": "30723871"
+  },
+  {
+    "name": "BANRISUL PAGAMENTOS IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "BANRISUL PAGAMENTOS IP",
+    "bankCode": "92934215"
+  },
+  {
+    "name": "BCO ABC BRASIL S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO ABC BRASIL S.A.",
+    "bankCode": "28195667"
+  },
+  {
+    "name": "BCO AFINZ S.A. - BM",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO AFINZ S.A. - BM",
+    "bankCode": "4814563"
+  },
+  {
+    "name": "BCO AGIBANK S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO AGIBANK S.A.",
+    "bankCode": "10664513"
+  },
+  {
+    "name": "BCO ARBI S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO ARBI S.A.",
+    "bankCode": "54403563"
+  },
+  {
+    "name": "BCO B3 S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO B3 S.A.",
+    "bankCode": "997185"
+  },
+  {
+    "name": "BCO BANESTES S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO BANESTES S.A.",
+    "bankCode": "28127603"
+  },
+  {
+    "name": "BCO BLUEBANK S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO BLUEBANK S.A.",
+    "bankCode": "58497702"
+  },
+  {
+    "name": "BCO BMG S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO BMG S.A.",
+    "bankCode": "61186680"
+  },
+  {
+    "name": "BCO BNP PARIBAS BRASIL S A",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO BNP PARIBAS BRASIL S A",
+    "bankCode": "1522368"
+  },
+  {
+    "name": "BCO BRADESCO S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO BRADESCO S.A.",
+    "bankCode": "60746948"
+  },
+  {
+    "name": "BCO BRASILEIRO DE CRÃDITO S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO BRASILEIRO DE CRÃDITO S.A.",
+    "bankCode": "1852137"
+  },
+  {
+    "name": "BCO BS2 S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO BS2 S.A.",
+    "bankCode": "71027866"
+  },
+  {
+    "name": "BCO BV S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO BV S.A.",
+    "bankCode": "1858774"
+  },
+  {
+    "name": "BCO C6 S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO C6 S.A.",
+    "bankCode": "31872495"
+  },
+  {
+    "name": "BCO CITIBANK S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO CITIBANK S.A.",
+    "bankCode": "33479023"
+  },
+  {
+    "name": "BCO COOPERATIVO SICREDI S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO COOPERATIVO SICREDI S.A.",
+    "bankCode": "1181521"
+  },
+  {
+    "name": "BCO CREFISA S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO CREFISA S.A.",
+    "bankCode": "61033106"
+  },
+  {
+    "name": "BCO CSF S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO CSF S.A.",
+    "bankCode": "8357240"
+  },
+  {
+    "name": "BCO DA AMAZONIA S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO DA AMAZONIA S.A.",
+    "bankCode": "4902979"
+  },
+  {
+    "name": "BCO DAYCOVAL S.A",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO DAYCOVAL S.A",
+    "bankCode": "62232889"
+  },
+  {
+    "name": "BCO DO BRASIL S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO DO BRASIL S.A.",
+    "bankCode": "00000000"
+  },
+  {
+    "name": "BCO DO EST. DE SE S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO DO EST. DE SE S.A.",
+    "bankCode": "13009717"
+  },
+  {
+    "name": "BCO DO EST. DO PA S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO DO EST. DO PA S.A.",
+    "bankCode": "4913711"
+  },
+  {
+    "name": "BCO DO ESTADO DO RS S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO DO ESTADO DO RS S.A.",
+    "bankCode": "92702067"
+  },
+  {
+    "name": "BCO DO NORDESTE DO BRASIL S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO DO NORDESTE DO BRASIL S.A.",
+    "bankCode": "7237373"
+  },
+  {
+    "name": "BCO FIBRA S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO FIBRA S.A.",
+    "bankCode": "58616418"
+  },
+  {
+    "name": "BCO GUANABARA S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO GUANABARA S.A.",
+    "bankCode": "31880826"
+  },
+  {
+    "name": "BCO HSBC S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO HSBC S.A.",
+    "bankCode": "53518684"
+  },
+  {
+    "name": "BCO INDUSTRIAL DO BRASIL S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO INDUSTRIAL DO BRASIL S.A.",
+    "bankCode": "31895683"
+  },
+  {
+    "name": "BCO ITAUCARD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO ITAUCARD S.A.",
+    "bankCode": "17192451"
+  },
+  {
+    "name": "BCO J.P. MORGAN S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO J.P. MORGAN S.A.",
+    "bankCode": "33172537"
+  },
+  {
+    "name": "BCO KEB HANA DO BRASIL S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO KEB HANA DO BRASIL S.A.",
+    "bankCode": "2318507"
+  },
+  {
+    "name": "BCO LUSO BRASILEIRO S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO LUSO BRASILEIRO S.A.",
+    "bankCode": "59118133"
+  },
+  {
+    "name": "BCO MERCANTIL DO BRASIL S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO MERCANTIL DO BRASIL S.A.",
+    "bankCode": "17184037"
+  },
+  {
+    "name": "BCO PAULISTA S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO PAULISTA S.A.",
+    "bankCode": "61820817"
+  },
+  {
+    "name": "BCO PINE S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO PINE S.A.",
+    "bankCode": "62144175"
+  },
+  {
+    "name": "BCO RENDIMENTO S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO RENDIMENTO S.A.",
+    "bankCode": "68900810"
+  },
+  {
+    "name": "BCO RIBEIRAO PRETO S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO RIBEIRAO PRETO S.A.",
+    "bankCode": "517645"
+  },
+  {
+    "name": "BCO SAFRA S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO SAFRA S.A.",
+    "bankCode": "58160789"
+  },
+  {
+    "name": "BCO SANTANDER (BRASIL) S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO SANTANDER (BRASIL) S.A.",
+    "bankCode": "90400888"
+  },
+  {
+    "name": "BCO SENFF S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO SENFF S.A.",
+    "bankCode": "11970623"
+  },
+  {
+    "name": "BCO SOFISA S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO SOFISA S.A.",
+    "bankCode": "60889128"
+  },
+  {
+    "name": "BCO TRIANGULO S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO TRIANGULO S.A.",
+    "bankCode": "17351180"
+  },
+  {
+    "name": "BCO VOTORANTIM S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO VOTORANTIM S.A.",
+    "bankCode": "59588111"
+  },
+  {
+    "name": "BCO VR S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO VR S.A.",
+    "bankCode": "78626983"
+  },
+  {
+    "name": "BCO WESTERN UNION",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO WESTERN UNION",
+    "bankCode": "13720915"
+  },
+  {
+    "name": "BCO XP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BCO XP S.A.",
+    "bankCode": "33264668"
+  },
+  {
+    "name": "BEES IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BEES IP LTDA.",
+    "bankCode": "35523352"
+  },
+  {
+    "name": "BEETELLER",
+    "code": "",
+    "country": "BR",
+    "acronym": "BEETELLER",
+    "bankCode": "32074986"
+  },
+  {
+    "name": "BELLUNO IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BELLUNO IP LTDA.",
+    "bankCode": "25238191"
+  },
+  {
+    "name": "BIPA INSTITUICAO DE PAGAMENTO",
+    "code": "",
+    "country": "BR",
+    "acronym": "BIPA INSTITUICAO DE PAGAMENTO",
+    "bankCode": "40910463"
+  },
+  {
+    "name": "BITSO IP LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "BITSO IP LTDA",
+    "bankCode": "35136120"
+  },
+  {
+    "name": "BIZ IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BIZ IP LTDA.",
+    "bankCode": "12481100"
+  },
+  {
+    "name": "BK IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BK IP S.A.",
+    "bankCode": "16814330"
+  },
+  {
+    "name": "BLU IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BLU IP LTDA.",
+    "bankCode": "10506341"
+  },
+  {
+    "name": "BLU PAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "BLU PAY",
+    "bankCode": "4838403"
+  },
+  {
+    "name": "BMB PAGAMENTOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "BMB PAGAMENTOS",
+    "bankCode": "13372874"
+  },
+  {
+    "name": "BMP SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BMP SCD S.A.",
+    "bankCode": "34337707"
+  },
+  {
+    "name": "BMP SCMEPP LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "BMP SCMEPP LTDA",
+    "bankCode": "11581339"
+  },
+  {
+    "name": "BMS SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BMS SCD S.A.",
+    "bankCode": "17826860"
+  },
+  {
+    "name": "BNK DIGITAL SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BNK DIGITAL SCD S.A.",
+    "bankCode": "45331622"
+  },
+  {
+    "name": "BNS CAPITAL PAGAMENTOS LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "BNS CAPITAL PAGAMENTOS LTDA",
+    "bankCode": "40557732"
+  },
+  {
+    "name": "BOFA MERRILL LYNCH BM S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BOFA MERRILL LYNCH BM S.A.",
+    "bankCode": "62073200"
+  },
+  {
+    "name": "BONUSPAGO SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BONUSPAGO SCD S.A.",
+    "bankCode": "36586946"
+  },
+  {
+    "name": "BPY CCTVM S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BPY CCTVM S.A.",
+    "bankCode": "27842177"
+  },
+  {
+    "name": "BRASIL CARD IP LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "BRASIL CARD IP LTDA",
+    "bankCode": "3130170"
+  },
+  {
+    "name": "BRCONDOS SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BRCONDOS SCD S.A.",
+    "bankCode": "49933388"
+  },
+  {
+    "name": "BRINKS PAY IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BRINKS PAY IP LTDA.",
+    "bankCode": "9437293"
+  },
+  {
+    "name": "BRX BANK IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "BRX BANK IP",
+    "bankCode": "24722685"
+  },
+  {
+    "name": "BS2 PAYMENTS IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BS2 PAYMENTS IP S.A.",
+    "bankCode": "20520298"
+  },
+  {
+    "name": "BSCASH",
+    "code": "",
+    "country": "BR",
+    "acronym": "BSCASH",
+    "bankCode": "40994589"
+  },
+  {
+    "name": "C.C CREDIVERDE",
+    "code": "",
+    "country": "BR",
+    "acronym": "C.C CREDIVERDE",
+    "bankCode": "25528753"
+  },
+  {
+    "name": "C6 CTVM LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "C6 CTVM LTDA.",
+    "bankCode": "32345784"
+  },
+  {
+    "name": "CAIXA ECONOMICA FEDERAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CAIXA ECONOMICA FEDERAL",
+    "bankCode": "360305"
+  },
+  {
+    "name": "CAPITAL CONSIG SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CAPITAL CONSIG SCD S.A.",
+    "bankCode": "40083667"
+  },
+  {
+    "name": "CAPPTA IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CAPPTA IP S.A.",
+    "bankCode": "13966572"
+  },
+  {
+    "name": "CARDPAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "CARDPAY",
+    "bankCode": "8512761"
+  },
+  {
+    "name": "CARTOS SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CARTOS SCD S.A.",
+    "bankCode": "21332862"
+  },
+  {
+    "name": "CARTWAVE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CARTWAVE",
+    "bankCode": "33207641"
+  },
+  {
+    "name": "CARUANA SCFI",
+    "code": "",
+    "country": "BR",
+    "acronym": "CARUANA SCFI",
+    "bankCode": "9313766"
+  },
+  {
+    "name": "CASA CREDITO S.A. SCM",
+    "code": "",
+    "country": "BR",
+    "acronym": "CASA CREDITO S.A. SCM",
+    "bankCode": "5442029"
+  },
+  {
+    "name": "CC AGROCREDI LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC AGROCREDI LTDA",
+    "bankCode": "42873828"
+  },
+  {
+    "name": "CC ALTO PARANAIBA E REGIÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC ALTO PARANAIBA E REGIÃO",
+    "bankCode": "25387671"
+  },
+  {
+    "name": "CC ALTO VALE DO ITAJAÃ",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC ALTO VALE DO ITAJAÃ",
+    "bankCode": "80959612"
+  },
+  {
+    "name": "CC ARACREDI LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC ARACREDI LTDA.",
+    "bankCode": "68987"
+  },
+  {
+    "name": "CC CAP UNICIDADES",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CAP UNICIDADES",
+    "bankCode": "3047549"
+  },
+  {
+    "name": "CC CARLOS CHAGAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CARLOS CHAGAS",
+    "bankCode": "41753500"
+  },
+  {
+    "name": "CC CENTRO LESTE NORTE MARANHENSE - SICOOB CENTROLESTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CENTRO LESTE NORTE MARANHENSE - SICOOB CENTROLESTE",
+    "bankCode": "9403026"
+  },
+  {
+    "name": "CC CENTRO SUL MINEIRO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CENTRO SUL MINEIRO",
+    "bankCode": "71238232"
+  },
+  {
+    "name": "CC COCRE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC COCRE",
+    "bankCode": "54401286"
+  },
+  {
+    "name": "CC CONTADORES, ADMINISTRADORES, ECONOMISTAS E CORRET SEGUROS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CONTADORES, ADMINISTRADORES, ECONOMISTAS E CORRET SEGUROS",
+    "bankCode": "2217068"
+  },
+  {
+    "name": "CC COOPACREDI",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC COOPACREDI",
+    "bankCode": "65229254"
+  },
+  {
+    "name": "CC COOPCRED",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC COOPCRED",
+    "bankCode": "53623781"
+  },
+  {
+    "name": "CC COOPLIVRE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC COOPLIVRE",
+    "bankCode": "49389307"
+  },
+  {
+    "name": "CC COPERSUL LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC COPERSUL LTDA",
+    "bankCode": "18966739"
+  },
+  {
+    "name": "CC CREDCOOPER LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDCOOPER LTDA",
+    "bankCode": "19449602"
+  },
+  {
+    "name": "CC CREDIAGRO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIAGRO",
+    "bankCode": "429890"
+  },
+  {
+    "name": "CC CREDIALP",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIALP",
+    "bankCode": "25353939"
+  },
+  {
+    "name": "CC CREDIARA LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIARA LTDA.",
+    "bankCode": "66398496"
+  },
+  {
+    "name": "CC CREDIBAM LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIBAM LTDA.",
+    "bankCode": "66259110"
+  },
+  {
+    "name": "CC CREDIBELO LTDA. - SICOOB CREDIBELO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIBELO LTDA. - SICOOB CREDIBELO",
+    "bankCode": "71237184"
+  },
+  {
+    "name": "CC CREDIBOM",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIBOM",
+    "bankCode": "21670187"
+  },
+  {
+    "name": "CC CREDICAF LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDICAF LTDA",
+    "bankCode": "25395435"
+  },
+  {
+    "name": "CC CREDICAMPINA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDICAMPINA",
+    "bankCode": "1609345"
+  },
+  {
+    "name": "CC CREDICAMPO LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDICAMPO LTDA",
+    "bankCode": "21661202"
+  },
+  {
+    "name": "CC CREDICARPA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDICARPA",
+    "bankCode": "23949522"
+  },
+  {
+    "name": "CC CREDICERIPA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDICERIPA",
+    "bankCode": "966246"
+  },
+  {
+    "name": "CC CREDICITRUS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDICITRUS",
+    "bankCode": "54037916"
+  },
+  {
+    "name": "CC CREDICOCAPEC",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDICOCAPEC",
+    "bankCode": "67096909"
+  },
+  {
+    "name": "CC CREDICOPE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDICOPE",
+    "bankCode": "38588174"
+  },
+  {
+    "name": "CC CREDIESMERALDAS LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIESMERALDAS LTDA.",
+    "bankCode": "68512748"
+  },
+  {
+    "name": "CC CREDIFIEMG",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIFIEMG",
+    "bankCode": "7469260"
+  },
+  {
+    "name": "CC CREDIFOR LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIFOR LTDA",
+    "bankCode": "41931445"
+  },
+  {
+    "name": "CC CREDIGUAÃU",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIGUAÃU",
+    "bankCode": "67960229"
+  },
+  {
+    "name": "CC CREDILIVRE LTDA. - SICOOB CREDILIVRE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDILIVRE LTDA. - SICOOB CREDILIVRE",
+    "bankCode": "41697103"
+  },
+  {
+    "name": "CC CREDIMAC LTDA - SICOOB CREDIMAC",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIMAC LTDA - SICOOB CREDIMAC",
+    "bankCode": "64480833"
+  },
+  {
+    "name": "CC CREDIMATA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIMATA",
+    "bankCode": "1152097"
+  },
+  {
+    "name": "CC CREDIMOTA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIMOTA",
+    "bankCode": "66788142"
+  },
+  {
+    "name": "CC CREDINACIONAL LTDA - SICOOB CREDINACIONAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDINACIONAL LTDA - SICOOB CREDINACIONAL",
+    "bankCode": "25420696"
+  },
+  {
+    "name": "CC CREDINOR",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDINOR",
+    "bankCode": "21866694"
+  },
+  {
+    "name": "CC CREDINORTE - SICOOB CREDINORTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDINORTE - SICOOB CREDINORTE",
+    "bankCode": "64276058"
+  },
+  {
+    "name": "CC CREDINOSSO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDINOSSO",
+    "bankCode": "6324872"
+  },
+  {
+    "name": "CC CREDINTER",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDINTER",
+    "bankCode": "24048910"
+  },
+  {
+    "name": "CC CREDIPIMENTA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIPIMENTA",
+    "bankCode": "42934794"
+  },
+  {
+    "name": "CC CREDIRAMA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIRAMA",
+    "bankCode": "3412878"
+  },
+  {
+    "name": "CC CREDISETE LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDISETE LTDA",
+    "bankCode": "22753982"
+  },
+  {
+    "name": "CC CREDISG",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDISG",
+    "bankCode": "3645752"
+  },
+  {
+    "name": "CC CREDISUDESTE LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDISUDESTE LTDA",
+    "bankCode": "22656789"
+  },
+  {
+    "name": "CC CREDIUNA LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIUNA LTDA",
+    "bankCode": "64237530"
+  },
+  {
+    "name": "CC CREDIVAG",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIVAG",
+    "bankCode": "25404542"
+  },
+  {
+    "name": "CC CREDIVALE LTDA. - SICOOB CREDIVALE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIVALE LTDA. - SICOOB CREDIVALE",
+    "bankCode": "25387655"
+  },
+  {
+    "name": "CC CREDIVAR",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIVAR",
+    "bankCode": "25798596"
+  },
+  {
+    "name": "CC CREDIVAZ LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIVAZ LTDA",
+    "bankCode": "803287"
+  },
+  {
+    "name": "CC CREDIVERTENTES",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDIVERTENTES",
+    "bankCode": "22724710"
+  },
+  {
+    "name": "CC CREDLIDER",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDLIDER",
+    "bankCode": "5463934"
+  },
+  {
+    "name": "CC CREDPLUS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC CREDPLUS",
+    "bankCode": "25536764"
+  },
+  {
+    "name": "CC DA FOZ DO RIO ITAJAÃ AÃU",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC DA FOZ DO RIO ITAJAÃ AÃU",
+    "bankCode": "9512539"
+  },
+  {
+    "name": "CC DE EMPRESÃRIOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC DE EMPRESÃRIOS",
+    "bankCode": "4247370"
+  },
+  {
+    "name": "CC DE ITAPETININGA - SICOOB CRED-ACI",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC DE ITAPETININGA - SICOOB CRED-ACI",
+    "bankCode": "8844074"
+  },
+  {
+    "name": "CC DISTRITO FEDERAL E ENTORNO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC DISTRITO FEDERAL E ENTORNO",
+    "bankCode": "1187961"
+  },
+  {
+    "name": "CC DO NORTE CATARINENSE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC DO NORTE CATARINENSE",
+    "bankCode": "3461243"
+  },
+  {
+    "name": "CC DO NORTE CATARINENSE E SUL PARANAENSE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC DO NORTE CATARINENSE E SUL PARANAENSE",
+    "bankCode": "81011686"
+  },
+  {
+    "name": "CC DO PLANALTO SUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC DO PLANALTO SUL",
+    "bankCode": "3033469"
+  },
+  {
+    "name": "CC DO VALE EUROPEU - SICOOB EURO VALE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC DO VALE EUROPEU - SICOOB EURO VALE",
+    "bankCode": "82133182"
+  },
+  {
+    "name": "CC EMP DA CIA INDUSTRIAL CATAGUASES E BAUMINAS LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC EMP DA CIA INDUSTRIAL CATAGUASES E BAUMINAS LTDA.",
+    "bankCode": "19495266"
+  },
+  {
+    "name": "CC EMPRESÃRIOS DE MANAUS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC EMPRESÃRIOS DE MANAUS",
+    "bankCode": "10808037"
+  },
+  {
+    "name": "CC GUARANICREDI",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC GUARANICREDI",
+    "bankCode": "26014175"
+  },
+  {
+    "name": "CC INTEGRADO - SICOOB INTEGRADO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC INTEGRADO - SICOOB INTEGRADO",
+    "bankCode": "7122321"
+  },
+  {
+    "name": "CC INTEGRANTES MIN PUBL E PODER JUDIC AP E CE E CCLA PA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC INTEGRANTES MIN PUBL E PODER JUDIC AP E CE E CCLA PA",
+    "bankCode": "84156470"
+  },
+  {
+    "name": "CC INV DE RONDÃNIA - SICOOB CREDJURD",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC INV DE RONDÃNIA - SICOOB CREDJURD",
+    "bankCode": "4751713"
+  },
+  {
+    "name": "CC INVESTIMENTO LIVRE ADMISSÃO DO OESTE DE RONDÃNIA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC INVESTIMENTO LIVRE ADMISSÃO DO OESTE DE RONDÃNIA",
+    "bankCode": "5597773"
+  },
+  {
+    "name": "CC INVESTIMENTO SICOOB CENTRO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC INVESTIMENTO SICOOB CENTRO",
+    "bankCode": "8044854"
+  },
+  {
+    "name": "CC JUST GOIAS E CELG",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC JUST GOIAS E CELG",
+    "bankCode": "9552111"
+  },
+  {
+    "name": "CC LAR CREDI",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC LAR CREDI",
+    "bankCode": "39343350"
+  },
+  {
+    "name": "CC LITORÃNEA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC LITORÃNEA",
+    "bankCode": "85291086"
+  },
+  {
+    "name": "CC MERCADO IMOBILIÃRIO - SICOOB IMOB.VC",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC MERCADO IMOBILIÃRIO - SICOOB IMOB.VC",
+    "bankCode": "14913919"
+  },
+  {
+    "name": "CC MONTECREDI LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC MONTECREDI LTDA.",
+    "bankCode": "71392047"
+  },
+  {
+    "name": "CC NO PIAUÃ - SICOOB PIAUÃ",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC NO PIAUÃ - SICOOB PIAUÃ",
+    "bankCode": "5477038"
+  },
+  {
+    "name": "CC NOROESTE DE MINAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC NOROESTE DE MINAS",
+    "bankCode": "86564051"
+  },
+  {
+    "name": "CC NORTE E NOROESTE DE MINAS GERAIS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC NORTE E NOROESTE DE MINAS GERAIS",
+    "bankCode": "698609"
+  },
+  {
+    "name": "CC NOSSA SENHORA DO DESTERRO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC NOSSA SENHORA DO DESTERRO",
+    "bankCode": "3419786"
+  },
+  {
+    "name": "CC NOSSO - SICOOB NOSSO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC NOSSO - SICOOB NOSSO",
+    "bankCode": "59869560"
+  },
+  {
+    "name": "CC NOSSOCREDITO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC NOSSOCREDITO",
+    "bankCode": "22760839"
+  },
+  {
+    "name": "CC ORIGINAL - SICOOB ORIGINAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC ORIGINAL - SICOOB ORIGINAL",
+    "bankCode": "81292278"
+  },
+  {
+    "name": "CC PODER JUD E MP MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC PODER JUD E MP MG",
+    "bankCode": "3519240"
+  },
+  {
+    "name": "CC REG. COLAR METROPOLITANO VALE DO AÃO LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC REG. COLAR METROPOLITANO VALE DO AÃO LTDA",
+    "bankCode": "17361536"
+  },
+  {
+    "name": "CC REGIÃO CENTRAL MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC REGIÃO CENTRAL MG",
+    "bankCode": "22749014"
+  },
+  {
+    "name": "CC REGIÃO MERIDIONAL BRASIL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC REGIÃO MERIDIONAL BRASIL",
+    "bankCode": "5392810"
+  },
+  {
+    "name": "CC SACRAMENTO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SACRAMENTO",
+    "bankCode": "71154256"
+  },
+  {
+    "name": "CC SÃO FRANCISCO DE SALES LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SÃO FRANCISCO DE SALES LTDA.",
+    "bankCode": "1374196"
+  },
+  {
+    "name": "CC SERV FIN CTBA E REG",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SERV FIN CTBA E REG",
+    "bankCode": "5097757"
+  },
+  {
+    "name": "CC SERV MIL POL CIVIL SEC ED",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SERV MIL POL CIVIL SEC ED",
+    "bankCode": "3269540"
+  },
+  {
+    "name": "CC SERV. MUN SANTO ANDRÃ SP - CECRESA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SERV. MUN SANTO ANDRÃ SP - CECRESA",
+    "bankCode": "512839"
+  },
+  {
+    "name": "CC SICOOB 3 COLINAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB 3 COLINAS",
+    "bankCode": "4013172"
+  },
+  {
+    "name": "CC SICOOB ALIANÃA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB ALIANÃA",
+    "bankCode": "6174009"
+  },
+  {
+    "name": "CC SICOOB CENTRAL BA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB CENTRAL BA",
+    "bankCode": "34148882"
+  },
+  {
+    "name": "CC SICOOB COOPEC LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB COOPEC LTDA.",
+    "bankCode": "32615247"
+  },
+  {
+    "name": "CC SICOOB COOPEMAR",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB COOPEMAR",
+    "bankCode": "4174720"
+  },
+  {
+    "name": "CC SICOOB COOPMIL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB COOPMIL",
+    "bankCode": "62673470"
+  },
+  {
+    "name": "CC SICOOB CRED EXECUTIVO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB CRED EXECUTIVO",
+    "bankCode": "4321309"
+  },
+  {
+    "name": "CC SICOOB CREDCOOP",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB CREDCOOP",
+    "bankCode": "2528151"
+  },
+  {
+    "name": "CC SICOOB CREDICAPITAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB CREDICAPITAL",
+    "bankCode": "4529074"
+  },
+  {
+    "name": "CC SICOOB CREDICONQUISTA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB CREDICONQUISTA",
+    "bankCode": "2282165"
+  },
+  {
+    "name": "CC SICOOB CREDITIROS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB CREDITIROS",
+    "bankCode": "42880617"
+  },
+  {
+    "name": "CC SICOOB CREDMETAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB CREDMETAL",
+    "bankCode": "3535065"
+  },
+  {
+    "name": "CC SICOOB CREDSEGURO LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB CREDSEGURO LTDA.",
+    "bankCode": "2935307"
+  },
+  {
+    "name": "CC SICOOB ENGECRED",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB ENGECRED",
+    "bankCode": "4388688"
+  },
+  {
+    "name": "CC SICOOB EXTREMO SUL LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB EXTREMO SUL LTDA.",
+    "bankCode": "2447120"
+  },
+  {
+    "name": "CC SICOOB HORIZONTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB HORIZONTE",
+    "bankCode": "7194313"
+  },
+  {
+    "name": "CC SICOOB IPÃ",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB IPÃ",
+    "bankCode": "24610065"
+  },
+  {
+    "name": "CC SICOOB ITAPAGIPE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB ITAPAGIPE",
+    "bankCode": "71506513"
+  },
+  {
+    "name": "CC SICOOB METROPOLITANO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB METROPOLITANO",
+    "bankCode": "3459850"
+  },
+  {
+    "name": "CC SICOOB NORTE SUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB NORTE SUL",
+    "bankCode": "2876918"
+  },
+  {
+    "name": "CC SICOOB OURO VERDE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB OURO VERDE",
+    "bankCode": "5582619"
+  },
+  {
+    "name": "CC SICOOB SERTÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB SERTÃO",
+    "bankCode": "2057584"
+  },
+  {
+    "name": "CC SICOOB UNISP",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB UNISP",
+    "bankCode": "74220948"
+  },
+  {
+    "name": "CC SICOOB VALE SUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC SICOOB VALE SUL",
+    "bankCode": "2466552"
+  },
+  {
+    "name": "CC UNIÃO CENTRO OESTE LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC UNIÃO CENTRO OESTE LTDA",
+    "bankCode": "26178111"
+  },
+  {
+    "name": "CC UNIÃO DO CENTRO OESTE DE MINAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC UNIÃO DO CENTRO OESTE DE MINAS",
+    "bankCode": "65239402"
+  },
+  {
+    "name": "CC UNICRED CENTRO-SUL LTDA - UNICRED CENTRO-SUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC UNICRED CENTRO-SUL LTDA - UNICRED CENTRO-SUL",
+    "bankCode": "75847"
+  },
+  {
+    "name": "CC UNICRED COOMARCA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC UNICRED COOMARCA",
+    "bankCode": "4355489"
+  },
+  {
+    "name": "CC UNICRED DESBRAVADORA LTDA - UNICRED DESBRAVADORA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC UNICRED DESBRAVADORA LTDA - UNICRED DESBRAVADORA",
+    "bankCode": "1039011"
+  },
+  {
+    "name": "CC UNICRED EVOLUÃÃO LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC UNICRED EVOLUÃÃO LTDA.",
+    "bankCode": "1727929"
+  },
+  {
+    "name": "CC UNICRED UNIÃO LTDA - UNICRED UNIÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC UNICRED UNIÃO LTDA - UNICRED UNIÃO",
+    "bankCode": "74114042"
+  },
+  {
+    "name": "CC UNICRED VALOR CAPITAL LTDA - UNICRED VALOR CAPITAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC UNICRED VALOR CAPITAL LTDA - UNICRED VALOR CAPITAL",
+    "bankCode": "74064502"
+  },
+  {
+    "name": "CC VALE DO CANOAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC VALE DO CANOAS",
+    "bankCode": "707903"
+  },
+  {
+    "name": "CC VALE ITAJAÃ E ITAPOCÃ",
+    "code": "",
+    "country": "BR",
+    "acronym": "CC VALE ITAJAÃ E ITAPOCÃ",
+    "bankCode": "2883398"
+  },
+  {
+    "name": "CCC DO ESP.SANTO - SICOOB ES",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCC DO ESP.SANTO - SICOOB ES",
+    "bankCode": "32428294"
+  },
+  {
+    "name": "CCC DO ESTADO DE SÃO PAULO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCC DO ESTADO DE SÃO PAULO",
+    "bankCode": "63917579"
+  },
+  {
+    "name": "CCC DO NORTE DO BRASIL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCC DO NORTE DO BRASIL",
+    "bankCode": "3502131"
+  },
+  {
+    "name": "CCC DOS EST DE MT, MS E MUN DE CACOAL/RO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCC DOS EST DE MT, MS E MUN DE CACOAL/RO",
+    "bankCode": "106180"
+  },
+  {
+    "name": "CCC ESTADO MG - CECREMGE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCC ESTADO MG - CECREMGE",
+    "bankCode": "309024"
+  },
+  {
+    "name": "CCC ESTADO SP - CECRESP",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCC ESTADO SP - CECRESP",
+    "bankCode": "62931522"
+  },
+  {
+    "name": "CCC MINAS GERAIS - CREDIMINAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCC MINAS GERAIS - CREDIMINAS",
+    "bankCode": "25683434"
+  },
+  {
+    "name": "CCC SICOOB CENTRAL SC/RS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCC SICOOB CENTRAL SC/RS",
+    "bankCode": "80160260"
+  },
+  {
+    "name": "CCC UNICOOB-SICOOB CENTR UNIC",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCC UNICOOB-SICOOB CENTR UNIC",
+    "bankCode": "5036532"
+  },
+  {
+    "name": "CCI UNINDÃSTRIA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCI UNINDÃSTRIA",
+    "bankCode": "53841911"
+  },
+  {
+    "name": "CCLA ALTO SÃO FRANCISCO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA ALTO SÃO FRANCISCO",
+    "bankCode": "41805003"
+  },
+  {
+    "name": "CCLA ANÃPOLIS E REGIÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA ANÃPOLIS E REGIÃO",
+    "bankCode": "33615055"
+  },
+  {
+    "name": "CCLA ARCOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA ARCOS",
+    "bankCode": "71230338"
+  },
+  {
+    "name": "CCLA BOA ESPERANÃA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA BOA ESPERANÃA",
+    "bankCode": "869687"
+  },
+  {
+    "name": "CCLA CAMPOS GERAIS E CAMPO DO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA CAMPOS GERAIS E CAMPO DO",
+    "bankCode": "71146450"
+  },
+  {
+    "name": "CCLA CARMO DO RIO CLARO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA CARMO DO RIO CLARO",
+    "bankCode": "25743311"
+  },
+  {
+    "name": "CCLA CENTRO BRASILEIRA LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA CENTRO BRASILEIRA LTDA.",
+    "bankCode": "37395399"
+  },
+  {
+    "name": "CCLA CENTRO NORDESTE - SICOOB CENTRO NORDESTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA CENTRO NORDESTE - SICOOB CENTRO NORDESTE",
+    "bankCode": "3102185"
+  },
+  {
+    "name": "CCLA CENTRO NORDESTE MINEIRO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA CENTRO NORDESTE MINEIRO",
+    "bankCode": "2173447"
+  },
+  {
+    "name": "CCLA CENTRO NORTE MT/MS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA CENTRO NORTE MT/MS",
+    "bankCode": "3326437"
+  },
+  {
+    "name": "CCLA CENTRO OESTE LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA CENTRO OESTE LTDA.",
+    "bankCode": "7502031"
+  },
+  {
+    "name": "CCLA CENTRO-SUL GOIANO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA CENTRO-SUL GOIANO",
+    "bankCode": "33579731"
+  },
+  {
+    "name": "CCLA CERES E RIALMA LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA CERES E RIALMA LTDA",
+    "bankCode": "9576849"
+  },
+  {
+    "name": "CCLA CIRCUITO CAMPOS VERTENTES",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA CIRCUITO CAMPOS VERTENTES",
+    "bankCode": "2232383"
+  },
+  {
+    "name": "CCLA CIRCUITO DAS ÃGUAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA CIRCUITO DAS ÃGUAS",
+    "bankCode": "3941182"
+  },
+  {
+    "name": "CCLA CREDIEMBRAPA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA CREDIEMBRAPA",
+    "bankCode": "2338666"
+  },
+  {
+    "name": "CCLA CREDISIS JICRED",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA CREDISIS JICRED",
+    "bankCode": "2309070"
+  },
+  {
+    "name": "CCLA CREDSAOPAULO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA CREDSAOPAULO",
+    "bankCode": "2197569"
+  },
+  {
+    "name": "CCLA DA GRANDE GOIÃNIA LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DA GRANDE GOIÃNIA LTDA.",
+    "bankCode": "10209619"
+  },
+  {
+    "name": "CCLA DA PARAÃBA - SICOOB PARAÃBA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DA PARAÃBA - SICOOB PARAÃBA",
+    "bankCode": "11907520"
+  },
+  {
+    "name": "CCLA DA REGIÃO CENTRAL DE RONDÃNIA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DA REGIÃO CENTRAL DE RONDÃNIA",
+    "bankCode": "2144899"
+  },
+  {
+    "name": "CCLA DA REGIÃO DE  PARÃ DE MINAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DA REGIÃO DE  PARÃ DE MINAS",
+    "bankCode": "25387713"
+  },
+  {
+    "name": "CCLA DA REGIÃO DE FRUTAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DA REGIÃO DE FRUTAL",
+    "bankCode": "71419600"
+  },
+  {
+    "name": "CCLA DA REGIÃO METROPOLITANA DE GOIÃNIA LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DA REGIÃO METROPOLITANA DE GOIÃNIA LTDA.",
+    "bankCode": "7599206"
+  },
+  {
+    "name": "CCLA DE ARARAQUARA E REGIÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DE ARARAQUARA E REGIÃO",
+    "bankCode": "53236808"
+  },
+  {
+    "name": "CCLA DE BH E CIDADES POLO DE MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DE BH E CIDADES POLO DE MG",
+    "bankCode": "1760242"
+  },
+  {
+    "name": "CCLA DE DORES DO INDAIA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DE DORES DO INDAIA",
+    "bankCode": "2254376"
+  },
+  {
+    "name": "CCLA DE ITAJUBÃ - SICOOB SUDESTE MAIS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DE ITAJUBÃ - SICOOB SUDESTE MAIS",
+    "bankCode": "4079285"
+  },
+  {
+    "name": "CCLA DE ITAÃNA E REGIÃO LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DE ITAÃNA E REGIÃO LTDA",
+    "bankCode": "66463407"
+  },
+  {
+    "name": "CCLA DE PALMEIRAS E REGIÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DE PALMEIRAS E REGIÃO",
+    "bankCode": "37631058"
+  },
+  {
+    "name": "CCLA DE PERNAMBUCO - SICOOB PERNAMBUCO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DE PERNAMBUCO - SICOOB PERNAMBUCO",
+    "bankCode": "3732359"
+  },
+  {
+    "name": "CCLA DE PITANGUI E REGIAO LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DE PITANGUI E REGIAO LTDA",
+    "bankCode": "4181542"
+  },
+  {
+    "name": "CCLA DE POMPEU LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DE POMPEU LTDA.",
+    "bankCode": "66262643"
+  },
+  {
+    "name": "CCLA DE RIO VERDE E REGIÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DE RIO VERDE E REGIÃO",
+    "bankCode": "9033698"
+  },
+  {
+    "name": "CCLA DE RORAIMA LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DE RORAIMA LTDA.",
+    "bankCode": "2137018"
+  },
+  {
+    "name": "CCLA DE SÃO ROQUE DE MINAS LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DE SÃO ROQUE DE MINAS LTDA.",
+    "bankCode": "66402207"
+  },
+  {
+    "name": "CCLA DO CENTRO SUL DE MS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DO CENTRO SUL DE MS",
+    "bankCode": "10319386"
+  },
+  {
+    "name": "CCLA DO CENTRO SUL RONDONIENSE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DO CENTRO SUL RONDONIENSE",
+    "bankCode": "2015588"
+  },
+  {
+    "name": "CCLA DO ESTADO DE SÃO PAULO - SICOOB PAULISTA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DO ESTADO DE SÃO PAULO - SICOOB PAULISTA",
+    "bankCode": "10262276"
+  },
+  {
+    "name": "CCLA DO ESTADO DO PARÃ - SICOOB COOESA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DO ESTADO DO PARÃ - SICOOB COOESA",
+    "bankCode": "83836114"
+  },
+  {
+    "name": "CCLA DO OESTE MARANHENSE - SICOOB OESTE MARANHENSE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DO OESTE MARANHENSE - SICOOB OESTE MARANHENSE",
+    "bankCode": "9424988"
+  },
+  {
+    "name": "CCLA DO PLANALTO CATARINENSE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DO PLANALTO CATARINENSE",
+    "bankCode": "1389651"
+  },
+  {
+    "name": "CCLA DO PLANALTO SERRANO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DO PLANALTO SERRANO",
+    "bankCode": "1692448"
+  },
+  {
+    "name": "CCLA DO SUL CATARINENSE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DO SUL CATARINENSE",
+    "bankCode": "3427097"
+  },
+  {
+    "name": "CCLA DO TOCANTINS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DO TOCANTINS",
+    "bankCode": "26960328"
+  },
+  {
+    "name": "CCLA DO VALE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DO VALE",
+    "bankCode": "86829827"
+  },
+  {
+    "name": "CCLA DO VALE DO CANOINHAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA DO VALE DO CANOINHAS",
+    "bankCode": "78834975"
+  },
+  {
+    "name": "CCLA E DOS ADV",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA E DOS ADV",
+    "bankCode": "2480577"
+  },
+  {
+    "name": "CCLA EMPREG DOS CORREIOS - SICOOB COOPERCORREIOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA EMPREG DOS CORREIOS - SICOOB COOPERCORREIOS",
+    "bankCode": "3862898"
+  },
+  {
+    "name": "CCLA ITAPIRANGA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA ITAPIRANGA",
+    "bankCode": "78483310"
+  },
+  {
+    "name": "CCLA JATAÃ E REGIÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA JATAÃ E REGIÃO",
+    "bankCode": "10143499"
+  },
+  {
+    "name": "CCLA LAGOA DA PRATA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA LAGOA DA PRATA",
+    "bankCode": "1739375"
+  },
+  {
+    "name": "CCLA LESTE E NORDESTE MINEIRO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA LESTE E NORDESTE MINEIRO",
+    "bankCode": "1559914"
+  },
+  {
+    "name": "CCLA MARGEM ESQUERDA DO URUCUI",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA MARGEM ESQUERDA DO URUCUI",
+    "bankCode": "14046512"
+  },
+  {
+    "name": "CCLA MAXI ALFA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA MAXI ALFA",
+    "bankCode": "78825270"
+  },
+  {
+    "name": "CCLA MEIO OESTE CATARINENSE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA MEIO OESTE CATARINENSE",
+    "bankCode": "80959638"
+  },
+  {
+    "name": "CCLA MONTES CLAROS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA MONTES CLAROS",
+    "bankCode": "2031139"
+  },
+  {
+    "name": "CCLA NOROESTE DE MG CREDIPINHO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA NOROESTE DE MG CREDIPINHO",
+    "bankCode": "71154876"
+  },
+  {
+    "name": "CCLA NORTE DE MATO GROSSO - SICOOB NORTE MT",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA NORTE DE MATO GROSSO - SICOOB NORTE MT",
+    "bankCode": "23623636"
+  },
+  {
+    "name": "CCLA NOVA SERRANA E REGIÃO CO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA NOVA SERRANA E REGIÃO CO",
+    "bankCode": "1667766"
+  },
+  {
+    "name": "CCLA OESTE MINEIRO LTDA-SICOOB",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA OESTE MINEIRO LTDA-SICOOB",
+    "bankCode": "71297899"
+  },
+  {
+    "name": "CCLA PARA DE MINAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA PARA DE MINAS",
+    "bankCode": "1009908"
+  },
+  {
+    "name": "CCLA PEDRO LEOPOLDO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA PEDRO LEOPOLDO",
+    "bankCode": "71441406"
+  },
+  {
+    "name": "CCLA PONTAL DO TRIANGULO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA PONTAL DO TRIANGULO",
+    "bankCode": "26178533"
+  },
+  {
+    "name": "CCLA PROD RURAIS TRIÃNGULO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA PROD RURAIS TRIÃNGULO",
+    "bankCode": "41669227"
+  },
+  {
+    "name": "CCLA PROF SAÃDE UNICRED ALIANÃA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA PROF SAÃDE UNICRED ALIANÃA",
+    "bankCode": "70937271"
+  },
+  {
+    "name": "CCLA REG LESTE BACIA RIO DOCE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA REG LESTE BACIA RIO DOCE",
+    "bankCode": "5158093"
+  },
+  {
+    "name": "CCLA REG SUDESTE MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA REG SUDESTE MG",
+    "bankCode": "42887133"
+  },
+  {
+    "name": "CCLA REG. CTR. E OESTE MINEIRO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA REG. CTR. E OESTE MINEIRO",
+    "bankCode": "1736516"
+  },
+  {
+    "name": "CCLA REGIÃO GUAXUPÃ",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA REGIÃO GUAXUPÃ",
+    "bankCode": "1699652"
+  },
+  {
+    "name": "CCLA RUBIATABA REGIAO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA RUBIATABA REGIAO",
+    "bankCode": "73422792"
+  },
+  {
+    "name": "CCLA SANTA CRUZ PALMEIRAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SANTA CRUZ PALMEIRAS",
+    "bankCode": "6910457"
+  },
+  {
+    "name": "CCLA SANTO ANTONIO DO MONTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SANTO ANTONIO DO MONTE",
+    "bankCode": "41707258"
+  },
+  {
+    "name": "CCLA SEBASTIAO PARAISO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SEBASTIAO PARAISO",
+    "bankCode": "1657678"
+  },
+  {
+    "name": "CCLA SERV POD LEG MG - SICOOB COFAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SERV POD LEG MG - SICOOB COFAL",
+    "bankCode": "21797311"
+  },
+  {
+    "name": "CCLA SICOOB ARENITO PARANÃ / SÃO PAULO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SICOOB ARENITO PARANÃ / SÃO PAULO",
+    "bankCode": "7026923"
+  },
+  {
+    "name": "CCLA SICOOB COOCRELIVRE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SICOOB COOCRELIVRE",
+    "bankCode": "53935029"
+  },
+  {
+    "name": "CCLA SICOOB COOPJUS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SICOOB COOPJUS",
+    "bankCode": "25363615"
+  },
+  {
+    "name": "CCLA SICOOB COPESITA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SICOOB COPESITA",
+    "bankCode": "19875244"
+  },
+  {
+    "name": "CCLA SICOOB CREDIACIL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SICOOB CREDIACIL",
+    "bankCode": "8795285"
+  },
+  {
+    "name": "CCLA SICOOB CREDICARU SC/RS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SICOOB CREDICARU SC/RS",
+    "bankCode": "694389"
+  },
+  {
+    "name": "CCLA SICOOB CREDIMEPI",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SICOOB CREDIMEPI",
+    "bankCode": "1644264"
+  },
+  {
+    "name": "CCLA SICOOB CREDMISSÃO LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SICOOB CREDMISSÃO LTDA.",
+    "bankCode": "1667352"
+  },
+  {
+    "name": "CCLA SICOOB UNIÃO SUDESTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SICOOB UNIÃO SUDESTE",
+    "bankCode": "7946216"
+  },
+  {
+    "name": "CCLA SICOOB UNIMAIS METROPOLITANA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SICOOB UNIMAIS METROPOLITANA",
+    "bankCode": "259231"
+  },
+  {
+    "name": "CCLA SICOOB VALCREDI SUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SICOOB VALCREDI SUL",
+    "bankCode": "2090126"
+  },
+  {
+    "name": "CCLA SUDOESTE GOIANO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SUDOESTE GOIANO",
+    "bankCode": "24795049"
+  },
+  {
+    "name": "CCLA SUL CATARINENSE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SUL CATARINENSE",
+    "bankCode": "81367880"
+  },
+  {
+    "name": "CCLA SUL MARANHENSE - SICOOB SUL MARANHENSE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SUL MARANHENSE - SICOOB SUL MARANHENSE",
+    "bankCode": "26526166"
+  },
+  {
+    "name": "CCLA SUL MINAS-SICOOB CREDIVAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA SUL MINAS-SICOOB CREDIVAS",
+    "bankCode": "1604998"
+  },
+  {
+    "name": "CCLA TRANSPORT RODOV VEICULOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA TRANSPORT RODOV VEICULOS",
+    "bankCode": "7789195"
+  },
+  {
+    "name": "CCLA TRÃS FRONTEIRAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA TRÃS FRONTEIRAS",
+    "bankCode": "4876393"
+  },
+  {
+    "name": "CCLA UNIÃO CENTRO OESTE MINAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA UNIÃO CENTRO OESTE MINAS",
+    "bankCode": "1703620"
+  },
+  {
+    "name": "CCLA UNIÃO DOS VALES DO PIRANGA E MATIPÃ LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA UNIÃO DOS VALES DO PIRANGA E MATIPÃ LTDA.",
+    "bankCode": "1060307"
+  },
+  {
+    "name": "CCLA UNIÃO E NEGÃCIOS  - SICOOB INTEGRAÃÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA UNIÃO E NEGÃCIOS  - SICOOB INTEGRAÃÃO",
+    "bankCode": "8742188"
+  },
+  {
+    "name": "CCLA UNICRED DO ESTADO DE SÃO PAULO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA UNICRED DO ESTADO DE SÃO PAULO",
+    "bankCode": "71884498"
+  },
+  {
+    "name": "CCLA URUBICI",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA URUBICI",
+    "bankCode": "2587492"
+  },
+  {
+    "name": "CCLA VALE DO AÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA VALE DO AÃO",
+    "bankCode": "19869338"
+  },
+  {
+    "name": "CCLA VALE DO ARAGUAIA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA VALE DO ARAGUAIA",
+    "bankCode": "24830879"
+  },
+  {
+    "name": "CCLA VALE DO PARANAÃBA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA VALE DO PARANAÃBA",
+    "bankCode": "24799033"
+  },
+  {
+    "name": "CCLA VALE DO PARANAPANEMA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA VALE DO PARANAPANEMA",
+    "bankCode": "1637949"
+  },
+  {
+    "name": "CCLA VALE DO RIO DO PEIXE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA VALE DO RIO DO PEIXE",
+    "bankCode": "78865995"
+  },
+  {
+    "name": "CCLA VALE DO RIO GRANDE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA VALE DO RIO GRANDE",
+    "bankCode": "25683475"
+  },
+  {
+    "name": "CCLA VALE DO VINHO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA VALE DO VINHO",
+    "bankCode": "81016131"
+  },
+  {
+    "name": "CCLA VALE SÃO PATRICIO LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA VALE SÃO PATRICIO LTDA",
+    "bankCode": "968602"
+  },
+  {
+    "name": "CCLA ZONA DA MATA LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLA ZONA DA MATA LTDA",
+    "bankCode": "2335109"
+  },
+  {
+    "name": "CCLAA AURIVERDE-SICOOB CREDIAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLAA AURIVERDE-SICOOB CREDIAL",
+    "bankCode": "78858107"
+  },
+  {
+    "name": "CCLAA ITAIPU SICOOB CREDITAIPU",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLAA ITAIPU SICOOB CREDITAIPU",
+    "bankCode": "81014060"
+  },
+  {
+    "name": "CCLAA JARAGUÃ DO SUL E REGIÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLAA JARAGUÃ DO SUL E REGIÃO",
+    "bankCode": "12384953"
+  },
+  {
+    "name": "CCLAA NOVA TRENTO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLAA NOVA TRENTO",
+    "bankCode": "2641969"
+  },
+  {
+    "name": "CCLAA OESTE CATARINENSE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLAA OESTE CATARINENSE",
+    "bankCode": "78825023"
+  },
+  {
+    "name": "CCLAA SAO MIGUEL DO OESTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCLAA SAO MIGUEL DO OESTE",
+    "bankCode": "81607046"
+  },
+  {
+    "name": "CCM CORRET SEG EST SAO PAULO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCM CORRET SEG EST SAO PAULO",
+    "bankCode": "8030602"
+  },
+  {
+    "name": "CCM DESP TRÃNS SC E RS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCM DESP TRÃNS SC E RS",
+    "bankCode": "4715685"
+  },
+  {
+    "name": "CCM DO ABC - COOPER 7",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCM DO ABC - COOPER 7",
+    "bankCode": "4414354"
+  },
+  {
+    "name": "CCM DO CEARÃ - SICOOB CEARÃ",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCM DO CEARÃ - SICOOB CEARÃ",
+    "bankCode": "3620772"
+  },
+  {
+    "name": "CCM DOS ADVOGADOS DE SC",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCM DOS ADVOGADOS DE SC",
+    "bankCode": "5861932"
+  },
+  {
+    "name": "CCM EMPR MAGAZINE LUIZA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCM EMPR MAGAZINE LUIZA",
+    "bankCode": "2093154"
+  },
+  {
+    "name": "CCM MED EMP MT",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCM MED EMP MT",
+    "bankCode": "36900256"
+  },
+  {
+    "name": "CCM PROF SAUDE E LIVRE ADMISSÃO TEOFILO OTONI LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCM PROF SAUDE E LIVRE ADMISSÃO TEOFILO OTONI LTDA",
+    "bankCode": "1709266"
+  },
+  {
+    "name": "CCM SERV FEDERAIS NA PARAÃBA - SICOOB COOPERCRET",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCM SERV FEDERAIS NA PARAÃBA - SICOOB COOPERCRET",
+    "bankCode": "2275781"
+  },
+  {
+    "name": "CCM SERV MIN EDUC SÃO PAULO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCM SERV MIN EDUC SÃO PAULO",
+    "bankCode": "73092827"
+  },
+  {
+    "name": "CCM SERV MUN S JOAO BOA VISTA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCM SERV MUN S JOAO BOA VISTA",
+    "bankCode": "74248949"
+  },
+  {
+    "name": "CCM SERV PUBLICOS - CREDI SP",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCM SERV PUBLICOS - CREDI SP",
+    "bankCode": "3612679"
+  },
+  {
+    "name": "CCM SICOOB CREDIACISC",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCM SICOOB CREDIACISC",
+    "bankCode": "7669921"
+  },
+  {
+    "name": "CCMLA REGIÃ£O ADMINISTRATIVA DE SOROCABA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCMLA REGIÃ£O ADMINISTRATIVA DE SOROCABA",
+    "bankCode": "10175348"
+  },
+  {
+    "name": "CCMS MUNICIPAIS DE BEBEDOURO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCMS MUNICIPAIS DE BEBEDOURO",
+    "bankCode": "5969937"
+  },
+  {
+    "name": "CCPS E LA DO TRIANG MINEIRO E SUL DE MG LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCPS E LA DO TRIANG MINEIRO E SUL DE MG LTDA",
+    "bankCode": "71432926"
+  },
+  {
+    "name": "CCR COOPAVEL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCR COOPAVEL",
+    "bankCode": "76461557"
+  },
+  {
+    "name": "CCR DE ABELARDO LUZ",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCR DE ABELARDO LUZ",
+    "bankCode": "1073966"
+  },
+  {
+    "name": "CCR DE GUACUI",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCR DE GUACUI",
+    "bankCode": "32422628"
+  },
+  {
+    "name": "CCR DE IBIAM",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCR DE IBIAM",
+    "bankCode": "8240446"
+  },
+  {
+    "name": "CCR DO AGRESTE ALAGOANO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCR DO AGRESTE ALAGOANO",
+    "bankCode": "8482873"
+  },
+  {
+    "name": "CCR FOR CANA CENTRO EST SP",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCR FOR CANA CENTRO EST SP",
+    "bankCode": "53776852"
+  },
+  {
+    "name": "CCR IRAI - SICOOB CREDIMIL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCR IRAI - SICOOB CREDIMIL",
+    "bankCode": "71207740"
+  },
+  {
+    "name": "CCR SEARA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CCR SEARA",
+    "bankCode": "204963"
+  },
+  {
+    "name": "CDC SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CDC SCD S.A.",
+    "bankCode": "18394228"
+  },
+  {
+    "name": "CECM APOS PENS E IDOSOS - SICOOB COOPERNAPI",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM APOS PENS E IDOSOS - SICOOB COOPERNAPI",
+    "bankCode": "16564240"
+  },
+  {
+    "name": "CECM COL GRUPO EMPR A COSTA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM COL GRUPO EMPR A COSTA",
+    "bankCode": "20062766"
+  },
+  {
+    "name": "CECM COLABORADORES DA VALE SICOOB CREDIVALE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM COLABORADORES DA VALE SICOOB CREDIVALE",
+    "bankCode": "20961629"
+  },
+  {
+    "name": "CECM COOPERSERV",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM COOPERSERV",
+    "bankCode": "5667301"
+  },
+  {
+    "name": "CECM DOS EMPR DAS EMP RANDON",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM DOS EMPR DAS EMP RANDON",
+    "bankCode": "89280960"
+  },
+  {
+    "name": "CECM DOS FUNCIONARIOS DA COMIGO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM DOS FUNCIONARIOS DA COMIGO",
+    "bankCode": "1062439"
+  },
+  {
+    "name": "CECM DOS MÃDICOS DOS V TAQUARI E RIO PARDO E REG PRO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM DOS MÃDICOS DOS V TAQUARI E RIO PARDO E REG PRO",
+    "bankCode": "1635462"
+  },
+  {
+    "name": "CECM DOS PROFISSIONAIS DA SAUDE DA REG ALTA MOGIANA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM DOS PROFISSIONAIS DA SAUDE DA REG ALTA MOGIANA",
+    "bankCode": "69346856"
+  },
+  {
+    "name": "CECM DOS TRAB.PORT. DA G.VITOR",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM DOS TRAB.PORT. DA G.VITOR",
+    "bankCode": "3844699"
+  },
+  {
+    "name": "CECM EMP AMERICANA, LIMEIRA E",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM EMP AMERICANA, LIMEIRA E",
+    "bankCode": "9579249"
+  },
+  {
+    "name": "CECM EMP INST SF SÃO PAULO CAM",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM EMP INST SF SÃO PAULO CAM",
+    "bankCode": "3674133"
+  },
+  {
+    "name": "CECM EMP USAGRO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM EMP USAGRO",
+    "bankCode": "68969625"
+  },
+  {
+    "name": "CECM EMPR CEMIG IND METAL E SERV PUB MUN",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM EMPR CEMIG IND METAL E SERV PUB MUN",
+    "bankCode": "17502881"
+  },
+  {
+    "name": "CECM EMPR CENT ELÃTRICAS/SC",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM EMPR CENT ELÃTRICAS/SC",
+    "bankCode": "8850613"
+  },
+  {
+    "name": "CECM EMPR EMP ZILLO LORENZETTI",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM EMPR EMP ZILLO LORENZETTI",
+    "bankCode": "58022195"
+  },
+  {
+    "name": "CECM EMPR EST HOSP BH RM ZM",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM EMPR EST HOSP BH RM ZM",
+    "bankCode": "19402130"
+  },
+  {
+    "name": "CECM INTEG. MF DP ESTADO RJ",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM INTEG. MF DP ESTADO RJ",
+    "bankCode": "4694278"
+  },
+  {
+    "name": "CECM MAGISTRADOS DE SÃO PAULO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM MAGISTRADOS DE SÃO PAULO",
+    "bankCode": "51489318"
+  },
+  {
+    "name": "CECM MÃD DE PORTO ALEGRE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM MÃD DE PORTO ALEGRE",
+    "bankCode": "94433109"
+  },
+  {
+    "name": "CECM MEDICOS E PROFISSIONAIS AREA SAUDE DO BRASIL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM MEDICOS E PROFISSIONAIS AREA SAUDE DO BRASIL",
+    "bankCode": "42898825"
+  },
+  {
+    "name": "CECM MÃDICOS PLANALTO MÃDIO RS - CREDISIS/CREDIPLAN",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM MÃDICOS PLANALTO MÃDIO RS - CREDISIS/CREDIPLAN",
+    "bankCode": "97259253"
+  },
+  {
+    "name": "CECM MILITARES ESTADUAIS DE SC",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM MILITARES ESTADUAIS DE SC",
+    "bankCode": "4572960"
+  },
+  {
+    "name": "CECM PROF ÃREA NOTARIAL REGISTRAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM PROF ÃREA NOTARIAL REGISTRAL",
+    "bankCode": "7714057"
+  },
+  {
+    "name": "CECM SERV E EMPREG PUBL MUN BH BETIM BRUMAD CONTAG IBI NL RN",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM SERV E EMPREG PUBL MUN BH BETIM BRUMAD CONTAG IBI NL RN",
+    "bankCode": "1864151"
+  },
+  {
+    "name": "CECM SERV MUN ITABIRA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM SERV MUN ITABIRA",
+    "bankCode": "16651002"
+  },
+  {
+    "name": "CECM SERV MUN POÃOS DE CALDAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM SERV MUN POÃOS DE CALDAS",
+    "bankCode": "41791005"
+  },
+  {
+    "name": "CECM SERV POD JUD TCE ORG PUBL MUN EST FED RJ",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM SERV POD JUD TCE ORG PUBL MUN EST FED RJ",
+    "bankCode": "2000895"
+  },
+  {
+    "name": "CECM SERV POL MIL SP REGIÃO CE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM SERV POL MIL SP REGIÃO CE",
+    "bankCode": "4152107"
+  },
+  {
+    "name": "CECM SICOOB COOPERAC",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM SICOOB COOPERAC",
+    "bankCode": "8071414"
+  },
+  {
+    "name": "CECM SICOOB CRED-ACILPA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM SICOOB CRED-ACILPA",
+    "bankCode": "9004796"
+  },
+  {
+    "name": "CECM SICOOB CREDSAÃDE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM SICOOB CREDSAÃDE",
+    "bankCode": "2072790"
+  },
+  {
+    "name": "CECM SICOOB METALCRED",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM SICOOB METALCRED",
+    "bankCode": "4833655"
+  },
+  {
+    "name": "CECM TRAB CIA PROC DADOS SP",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM TRAB CIA PROC DADOS SP",
+    "bankCode": "67915868"
+  },
+  {
+    "name": "CECM UNICRED INTEGRAÃÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECM UNICRED INTEGRAÃÃO",
+    "bankCode": "73750424"
+  },
+  {
+    "name": "CECME CHOCOLATES GAROTO LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECME CHOCOLATES GAROTO LTDA",
+    "bankCode": "30949267"
+  },
+  {
+    "name": "CECME EMPR EMP GR ECON RHODIA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECME EMPR EMP GR ECON RHODIA",
+    "bankCode": "57563728"
+  },
+  {
+    "name": "CECMF SECRETARIA DA FAZENDA MG E LIVRE ADMISSÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CECMF SECRETARIA DA FAZENDA MG E LIVRE ADMISSÃO",
+    "bankCode": "16721078"
+  },
+  {
+    "name": "CELCOIN IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CELCOIN IP S.A.",
+    "bankCode": "13935893"
+  },
+  {
+    "name": "CENTRAL SICOOB UNI DE CC",
+    "code": "",
+    "country": "BR",
+    "acronym": "CENTRAL SICOOB UNI DE CC",
+    "bankCode": "4243780"
+  },
+  {
+    "name": "CF BANK",
+    "code": "",
+    "country": "BR",
+    "acronym": "CF BANK",
+    "bankCode": "38406148"
+  },
+  {
+    "name": "CICLLOS PAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "CICLLOS PAY",
+    "bankCode": "35257964"
+  },
+  {
+    "name": "CIELO IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CIELO IP S.A.",
+    "bankCode": "1027058"
+  },
+  {
+    "name": "CIVIA COOP CRED",
+    "code": "",
+    "country": "BR",
+    "acronym": "CIVIA COOP CRED",
+    "bankCode": "10218474"
+  },
+  {
+    "name": "CLARA IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "CLARA IP",
+    "bankCode": "41538335"
+  },
+  {
+    "name": "CLARO PAY S.A. IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "CLARO PAY S.A. IP",
+    "bankCode": "34878543"
+  },
+  {
+    "name": "CLOUDWALK IP LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CLOUDWALK IP LTDA",
+    "bankCode": "18189547"
+  },
+  {
+    "name": "COBUCCIO S.A. SCFI",
+    "code": "",
+    "country": "BR",
+    "acronym": "COBUCCIO S.A. SCFI",
+    "bankCode": "36947229"
+  },
+  {
+    "name": "CODEPAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "CODEPAY",
+    "bankCode": "26721922"
+  },
+  {
+    "name": "CONPAY IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CONPAY IP S.A.",
+    "bankCode": "31531997"
+  },
+  {
+    "name": "CONTA PRONTA IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "CONTA PRONTA IP",
+    "bankCode": "12473687"
+  },
+  {
+    "name": "COOP  SICOOB MÃDIO OESTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP  SICOOB MÃDIO OESTE",
+    "bankCode": "7318874"
+  },
+  {
+    "name": "COOP ARACOOP LTDA. - SICOOB ARACOOP",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP ARACOOP LTDA. - SICOOB ARACOOP",
+    "bankCode": "3320525"
+  },
+  {
+    "name": "COOP CENTRO NORTE BRASILEIRO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CENTRO NORTE BRASILEIRO",
+    "bankCode": "2282709"
+  },
+  {
+    "name": "COOP COOPERFORTE LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP COOPERFORTE LTDA.",
+    "bankCode": "1658426"
+  },
+  {
+    "name": "COOP CREDICAPI LTDA - SICOOB CREDICAPI",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CREDICAPI LTDA - SICOOB CREDICAPI",
+    "bankCode": "804046"
+  },
+  {
+    "name": "COOP CREDICOMIN",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CREDICOMIN",
+    "bankCode": "9590601"
+  },
+  {
+    "name": "COOP CRESERV CREDISIS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESERV CREDISIS",
+    "bankCode": "4831810"
+  },
+  {
+    "name": "COOP CRESOL ALIANÃA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL ALIANÃA",
+    "bankCode": "7412987"
+  },
+  {
+    "name": "COOP CRESOL ALTERNATIVA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL ALTERNATIVA",
+    "bankCode": "7215632"
+  },
+  {
+    "name": "COOP CRESOL ALTO VALE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL ALTO VALE",
+    "bankCode": "7465539"
+  },
+  {
+    "name": "COOP CRESOL AMAZONIA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL AMAZONIA",
+    "bankCode": "10520232"
+  },
+  {
+    "name": "COOP CRESOL ARATIBA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL ARATIBA",
+    "bankCode": "4565791"
+  },
+  {
+    "name": "COOP CRESOL ATIVA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL ATIVA",
+    "bankCode": "7946451"
+  },
+  {
+    "name": "COOP CRESOL ÃUREA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL ÃUREA",
+    "bankCode": "2904138"
+  },
+  {
+    "name": "COOP CRESOL CENTRO NORTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL CENTRO NORTE",
+    "bankCode": "5211129"
+  },
+  {
+    "name": "COOP CRESOL CENTRO SERRA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL CENTRO SERRA",
+    "bankCode": "1155801"
+  },
+  {
+    "name": "COOP CRESOL CENTRO SUL RS/MS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL CENTRO SUL RS/MS",
+    "bankCode": "2910987"
+  },
+  {
+    "name": "COOP CRESOL CONEXÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL CONEXÃO",
+    "bankCode": "11969853"
+  },
+  {
+    "name": "COOP CRESOL CONFIANÃA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL CONFIANÃA",
+    "bankCode": "7252614"
+  },
+  {
+    "name": "COOP CRESOL COOPERACRED",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL COOPERACRED",
+    "bankCode": "9488496"
+  },
+  {
+    "name": "COOP CRESOL COOPERAR",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL COOPERAR",
+    "bankCode": "5983995"
+  },
+  {
+    "name": "COOP CRESOL DESENVOLVIMENTO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL DESENVOLVIMENTO",
+    "bankCode": "5425526"
+  },
+  {
+    "name": "COOP CRESOL ENCOSTAS DA SERRA GERAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL ENCOSTAS DA SERRA GERAL",
+    "bankCode": "3485130"
+  },
+  {
+    "name": "COOP CRESOL ESSENCIA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL ESSENCIA",
+    "bankCode": "6031727"
+  },
+  {
+    "name": "COOP CRESOL EVOLUÃAO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL EVOLUÃAO",
+    "bankCode": "2844024"
+  },
+  {
+    "name": "COOP CRESOL FRONTEIRAS PR/SC/SP/ES",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL FRONTEIRAS PR/SC/SP/ES",
+    "bankCode": "5276770"
+  },
+  {
+    "name": "COOP CRESOL GETULIO VARGAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL GETULIO VARGAS",
+    "bankCode": "5241145"
+  },
+  {
+    "name": "COOP CRESOL GOIAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL GOIAS",
+    "bankCode": "4490531"
+  },
+  {
+    "name": "COOP CRESOL GRANDES LAGOS PR/SP",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL GRANDES LAGOS PR/SP",
+    "bankCode": "6126780"
+  },
+  {
+    "name": "COOP CRESOL HORIZONTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL HORIZONTE",
+    "bankCode": "5277312"
+  },
+  {
+    "name": "COOP CRESOL INOVAÃAO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL INOVAÃAO",
+    "bankCode": "5070112"
+  },
+  {
+    "name": "COOP CRESOL INTEGRACAO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL INTEGRACAO",
+    "bankCode": "7268499"
+  },
+  {
+    "name": "COOP CRESOL INTERAÃÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL INTERAÃÃO",
+    "bankCode": "8055016"
+  },
+  {
+    "name": "COOP CRESOL JACINTO MACHADO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL JACINTO MACHADO",
+    "bankCode": "9463721"
+  },
+  {
+    "name": "COOP CRESOL JACUTINGA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL JACUTINGA",
+    "bankCode": "2904125"
+  },
+  {
+    "name": "COOP CRESOL LIDERANCA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL LIDERANCA",
+    "bankCode": "2934201"
+  },
+  {
+    "name": "COOP CRESOL LITORAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL LITORAL",
+    "bankCode": "5410056"
+  },
+  {
+    "name": "COOP CRESOL MAIS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL MAIS",
+    "bankCode": "5269976"
+  },
+  {
+    "name": "COOP CRESOL MATO GROSSO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL MATO GROSSO",
+    "bankCode": "50735161"
+  },
+  {
+    "name": "COOP CRESOL MINAS GERAIS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL MINAS GERAIS",
+    "bankCode": "8624548"
+  },
+  {
+    "name": "COOP CRESOL MISSÃES FRONTEIRA RS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL MISSÃES FRONTEIRA RS",
+    "bankCode": "8488377"
+  },
+  {
+    "name": "COOP CRESOL NASCENTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL NASCENTE",
+    "bankCode": "5494591"
+  },
+  {
+    "name": "COOP CRESOL NOROESTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL NOROESTE",
+    "bankCode": "2663426"
+  },
+  {
+    "name": "COOP CRESOL NORTE PARANAENSE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL NORTE PARANAENSE",
+    "bankCode": "7925729"
+  },
+  {
+    "name": "COOP CRESOL ORIGENS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL ORIGENS",
+    "bankCode": "5220243"
+  },
+  {
+    "name": "COOP CRESOL PIONEIRA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL PIONEIRA",
+    "bankCode": "971300"
+  },
+  {
+    "name": "COOP CRESOL PLANALTO SERRA SUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL PLANALTO SERRA SUL",
+    "bankCode": "5863726"
+  },
+  {
+    "name": "COOP CRESOL PLANALTO SUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL PLANALTO SUL",
+    "bankCode": "2766672"
+  },
+  {
+    "name": "COOP CRESOL PRIMATO CREDI",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL PRIMATO CREDI",
+    "bankCode": "53575491"
+  },
+  {
+    "name": "COOP CRESOL PROGRESSO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL PROGRESSO",
+    "bankCode": "2448310"
+  },
+  {
+    "name": "COOP CRESOL RAIZ",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL RAIZ",
+    "bankCode": "17343510"
+  },
+  {
+    "name": "COOP CRESOL RIO GRANDE DO SUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL RIO GRANDE DO SUL",
+    "bankCode": "6139650"
+  },
+  {
+    "name": "COOP CRESOL SÃO VALENTIM",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL SÃO VALENTIM",
+    "bankCode": "3015152"
+  },
+  {
+    "name": "COOP CRESOL SERRA MAR",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL SERRA MAR",
+    "bankCode": "7958405"
+  },
+  {
+    "name": "COOP CRESOL TRADICAO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL TRADICAO",
+    "bankCode": "4350225"
+  },
+  {
+    "name": "COOP CRESOL TRANSAMAZÃNICA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL TRANSAMAZÃNICA",
+    "bankCode": "24431221"
+  },
+  {
+    "name": "COOP CRESOL TRANSFORMAÃÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL TRANSFORMAÃÃO",
+    "bankCode": "4261151"
+  },
+  {
+    "name": "COOP CRESOL TREZE DE MAIO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL TREZE DE MAIO",
+    "bankCode": "9330158"
+  },
+  {
+    "name": "COOP CRESOL TRIUNFO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL TRIUNFO",
+    "bankCode": "8560508"
+  },
+  {
+    "name": "COOP CRESOL UNIAO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL UNIAO",
+    "bankCode": "2446089"
+  },
+  {
+    "name": "COOP CRESOL UNIAO DOS VALES",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL UNIAO DOS VALES",
+    "bankCode": "5231945"
+  },
+  {
+    "name": "COOP CRESOL VALE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL VALE",
+    "bankCode": "7320890"
+  },
+  {
+    "name": "COOP CRESOL VALE EUROPEU",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL VALE EUROPEU",
+    "bankCode": "7512780"
+  },
+  {
+    "name": "COOP CRESOL VANGUARDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL VANGUARDA",
+    "bankCode": "3965737"
+  },
+  {
+    "name": "COOP CRESOL XANXERE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CRESOL XANXERE",
+    "bankCode": "7509426"
+  },
+  {
+    "name": "COOP DE AGRICULTORES E AEROPORTUÃRIOS DO BRASIL",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP DE AGRICULTORES E AEROPORTUÃRIOS DO BRASIL",
+    "bankCode": "1330387"
+  },
+  {
+    "name": "COOP DE CRED E INVEST LIBERDADE - SICREDI LIBERDADE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP DE CRED E INVEST LIBERDADE - SICREDI LIBERDADE",
+    "bankCode": "88530142"
+  },
+  {
+    "name": "COOP DE CRÃDITO SICOOB COSTA DO DESCOBRIMENTO LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP DE CRÃDITO SICOOB COSTA DO DESCOBRIMENTO LTDA.",
+    "bankCode": "1205736"
+  },
+  {
+    "name": "COOP DO ESTADO DE GOIÃS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP DO ESTADO DE GOIÃS",
+    "bankCode": "4406371"
+  },
+  {
+    "name": "COOP DO ESTADO DO ACRE LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP DO ESTADO DO ACRE LTDA.",
+    "bankCode": "1608685"
+  },
+  {
+    "name": "COOP EVOLUA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP EVOLUA",
+    "bankCode": "10311218"
+  },
+  {
+    "name": "COOP FRONTEIRAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP FRONTEIRAS",
+    "bankCode": "3612764"
+  },
+  {
+    "name": "COOP INVEST INT SOL VALE DAS ÃGUAS PR/MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP INVEST INT SOL VALE DAS ÃGUAS PR/MG",
+    "bankCode": "4663561"
+  },
+  {
+    "name": "COOP LIVRE ADMISSÃO DE ASSOCIADOS SICOOB CRUZ ALTA LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP LIVRE ADMISSÃO DE ASSOCIADOS SICOOB CRUZ ALTA LTDA",
+    "bankCode": "73326449"
+  },
+  {
+    "name": "COOP NOVOS CAMPOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP NOVOS CAMPOS",
+    "bankCode": "78862083"
+  },
+  {
+    "name": "COOP POL FED - SICREDI POL",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP POL FED - SICREDI POL",
+    "bankCode": "3000142"
+  },
+  {
+    "name": "COOP SICOOB BURITIS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICOOB BURITIS",
+    "bankCode": "5247312"
+  },
+  {
+    "name": "COOP SICOOB CERRADO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICOOB CERRADO",
+    "bankCode": "5222094"
+  },
+  {
+    "name": "COOP SICOOB CONFIANÃA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICOOB CONFIANÃA",
+    "bankCode": "7097064"
+  },
+  {
+    "name": "COOP SICOOB COOPEREMB",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICOOB COOPEREMB",
+    "bankCode": "46642294"
+  },
+  {
+    "name": "COOP SICOOB COOPERPLAN CREDSEF",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICOOB COOPERPLAN CREDSEF",
+    "bankCode": "3603683"
+  },
+  {
+    "name": "COOP SICOOB CREDIAUC",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICOOB CREDIAUC",
+    "bankCode": "78840071"
+  },
+  {
+    "name": "COOP SICOOB CREDIJUSTRA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICOOB CREDIJUSTRA",
+    "bankCode": "37079720"
+  },
+  {
+    "name": "COOP SICOOB EXECUTIVO LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICOOB EXECUTIVO LTDA.",
+    "bankCode": "694877"
+  },
+  {
+    "name": "COOP SICOOB MANTIQUEIRA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICOOB MANTIQUEIRA",
+    "bankCode": "71698674"
+  },
+  {
+    "name": "COOP SICOOB PRIMAVERA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICOOB PRIMAVERA",
+    "bankCode": "5241619"
+  },
+  {
+    "name": "COOP SICOOB PRO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICOOB PRO",
+    "bankCode": "44469161"
+  },
+  {
+    "name": "COOP SICOOB UNI SUDESTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICOOB UNI SUDESTE",
+    "bankCode": "86389236"
+  },
+  {
+    "name": "COOP SICOOB UNI SUL MS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICOOB UNI SUL MS",
+    "bankCode": "37554441"
+  },
+  {
+    "name": "COOP SICREDI AGROEMPRESARIAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI AGROEMPRESARIAL",
+    "bankCode": "79457883"
+  },
+  {
+    "name": "COOP SICREDI AJURIS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI AJURIS",
+    "bankCode": "3750034"
+  },
+  {
+    "name": "COOP SICREDI ALIANÃA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI ALIANÃA",
+    "bankCode": "79052122"
+  },
+  {
+    "name": "COOP SICREDI ALIANÃA RS/SC",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI ALIANÃA RS/SC",
+    "bankCode": "87795639"
+  },
+  {
+    "name": "COOP SICREDI ALT SERRA RS/SC",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI ALT SERRA RS/SC",
+    "bankCode": "92555150"
+  },
+  {
+    "name": "COOP SICREDI ALTA NOROESTE SP",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI ALTA NOROESTE SP",
+    "bankCode": "4484490"
+  },
+  {
+    "name": "COOP SICREDI ALTSERTÃO PARAIBANO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI ALTSERTÃO PARAIBANO",
+    "bankCode": "9343038"
+  },
+  {
+    "name": "COOP SICREDI ARAXINGU",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI ARAXINGU",
+    "bankCode": "33021064"
+  },
+  {
+    "name": "COOP SICREDI BANDEIRANTES",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI BANDEIRANTES",
+    "bankCode": "4853988"
+  },
+  {
+    "name": "COOP SICREDI BIOMAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI BIOMAS",
+    "bankCode": "33022690"
+  },
+  {
+    "name": "COOP SICREDI BOTUCARAÃ RS/MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI BOTUCARAÃ RS/MG",
+    "bankCode": "87900601"
+  },
+  {
+    "name": "COOP SICREDI CAMINHO DAS ÃGUAS RS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI CAMINHO DAS ÃGUAS RS",
+    "bankCode": "95213211"
+  },
+  {
+    "name": "COOP SICREDI CAMPO GRANDE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI CAMPO GRANDE",
+    "bankCode": "3042597"
+  },
+  {
+    "name": "COOP SICREDI CELEIRO DO MT",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI CELEIRO DO MT",
+    "bankCode": "26555235"
+  },
+  {
+    "name": "COOP SICREDI CELEIRO OESTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI CELEIRO OESTE",
+    "bankCode": "3566655"
+  },
+  {
+    "name": "COOP SICREDI CEN OEST PAULISTA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI CEN OEST PAULISTA",
+    "bankCode": "4463602"
+  },
+  {
+    "name": "COOP SICREDI CENT SUL PR/SC/RJ",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI CENT SUL PR/SC/RJ",
+    "bankCode": "78907607"
+  },
+  {
+    "name": "COOP SICREDI CENTRO PERNAMBUCANA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI CENTRO PERNAMBUCANA",
+    "bankCode": "41255225"
+  },
+  {
+    "name": "COOP SICREDI CENTRO SERRA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI CENTRO SERRA",
+    "bankCode": "87067757"
+  },
+  {
+    "name": "COOP SICREDI CENTRO-SUL MS/BA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI CENTRO-SUL MS/BA",
+    "bankCode": "26408161"
+  },
+  {
+    "name": "COOP SICREDI CERRADO GO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI CERRADO GO",
+    "bankCode": "6332931"
+  },
+  {
+    "name": "COOP SICREDI CONFIANÃA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI CONFIANÃA",
+    "bankCode": "89049738"
+  },
+  {
+    "name": "COOP SICREDI COOABCRED RS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI COOABCRED RS",
+    "bankCode": "19962468"
+  },
+  {
+    "name": "COOP SICREDI COOPERJURIS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI COOPERJURIS",
+    "bankCode": "8041950"
+  },
+  {
+    "name": "COOP SICREDI CREDENOREG",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI CREDENOREG",
+    "bankCode": "6078926"
+  },
+  {
+    "name": "COOP SICREDI CREDJURIS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI CREDJURIS",
+    "bankCode": "4886317"
+  },
+  {
+    "name": "COOP SICREDI CULTURAS RS/MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI CULTURAS RS/MG",
+    "bankCode": "90729369"
+  },
+  {
+    "name": "COOP SICREDI DEXIS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI DEXIS",
+    "bankCode": "79342069"
+  },
+  {
+    "name": "COOP SICREDI EDUCAÃÃO RS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI EDUCAÃÃO RS",
+    "bankCode": "4525997"
+  },
+  {
+    "name": "COOP SICREDI EMPREENDEDORES",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI EMPREENDEDORES",
+    "bankCode": "7070495"
+  },
+  {
+    "name": "COOP SICREDI ESSÃNCIA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI ESSÃNCIA",
+    "bankCode": "87733077"
+  },
+  {
+    "name": "COOP SICREDI EVOLUÃÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI EVOLUÃÃO",
+    "bankCode": "35571249"
+  },
+  {
+    "name": "COOP SICREDI EXPANSÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI EXPANSÃO",
+    "bankCode": "41180092"
+  },
+  {
+    "name": "COOP SICREDI FORÃA DOS VENTOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI FORÃA DOS VENTOS",
+    "bankCode": "57647653"
+  },
+  {
+    "name": "COOP SICREDI FRONTEIR PR/SC/SP",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI FRONTEIR PR/SC/SP",
+    "bankCode": "82527557"
+  },
+  {
+    "name": "COOP SICREDI GERAÃÃES RS/MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI GERAÃÃES RS/MG",
+    "bankCode": "88471024"
+  },
+  {
+    "name": "COOP SICREDI GRANDES LAGOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI GRANDES LAGOS",
+    "bankCode": "81115149"
+  },
+  {
+    "name": "COOP SICREDI GRANDES RIOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI GRANDES RIOS",
+    "bankCode": "37442605"
+  },
+  {
+    "name": "COOP SICREDI IBIRAIARAS RS/MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI IBIRAIARAS RS/MG",
+    "bankCode": "89990501"
+  },
+  {
+    "name": "COOP SICREDI IGUAÃU PR/SC E REGIÃO METROP. DE CAMPINAS/SP",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI IGUAÃU PR/SC E REGIÃO METROP. DE CAMPINAS/SP",
+    "bankCode": "84974278"
+  },
+  {
+    "name": "COOP SICREDI INTEGRAÃÃO BAHIA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI INTEGRAÃÃO BAHIA",
+    "bankCode": "97489280"
+  },
+  {
+    "name": "COOP SICREDI INTEGRAÃÃO MT/AP/PA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI INTEGRAÃÃO MT/AP/PA",
+    "bankCode": "26549311"
+  },
+  {
+    "name": "COOP SICREDI INTEGRAÃÃO PR/SC",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI INTEGRAÃÃO PR/SC",
+    "bankCode": "81054686"
+  },
+  {
+    "name": "COOP SICREDI INTEGRAÃÃO RS/MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI INTEGRAÃÃO RS/MG",
+    "bankCode": "91159764"
+  },
+  {
+    "name": "COOP SICREDI INTERESTADOS RS/ES",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI INTERESTADOS RS/ES",
+    "bankCode": "90497256"
+  },
+  {
+    "name": "COOP SICREDI LENÃÃIS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI LENÃÃIS",
+    "bankCode": "5545390"
+  },
+  {
+    "name": "COOP SICREDI MEDICRED",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI MEDICRED",
+    "bankCode": "2924977"
+  },
+  {
+    "name": "COOP SICREDI MORADA DO SOL SP",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI MORADA DO SOL SP",
+    "bankCode": "73113243"
+  },
+  {
+    "name": "COOP SICREDI MP",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI MP",
+    "bankCode": "3662047"
+  },
+  {
+    "name": "COOP SICREDI NOROESTE SP",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI NOROESTE SP",
+    "bankCode": "3065046"
+  },
+  {
+    "name": "COOP SICREDI NORTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI NORTE",
+    "bankCode": "83315408"
+  },
+  {
+    "name": "COOP SICREDI NORTE SC",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI NORTE SC",
+    "bankCode": "2843443"
+  },
+  {
+    "name": "COOP SICREDI NORTE SUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI NORTE SUL",
+    "bankCode": "79063574"
+  },
+  {
+    "name": "COOP SICREDI NOSSA TERRA PR/SP",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI NOSSA TERRA PR/SP",
+    "bankCode": "81192106"
+  },
+  {
+    "name": "COOP SICREDI NOVOS HORIZONTES PR/SP/RJ",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI NOVOS HORIZONTES PR/SP/RJ",
+    "bankCode": "7206072"
+  },
+  {
+    "name": "COOP SICREDI ORIGENS RS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI ORIGENS RS",
+    "bankCode": "92796564"
+  },
+  {
+    "name": "COOP SICREDI OURO BRANCO RS/MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI OURO BRANCO RS/MG",
+    "bankCode": "87853206"
+  },
+  {
+    "name": "COOP SICREDI OURO VERDE MT",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI OURO VERDE MT",
+    "bankCode": "26529420"
+  },
+  {
+    "name": "COOP SICREDI PANTANAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI PANTANAL",
+    "bankCode": "26408187"
+  },
+  {
+    "name": "COOP SICREDI PARANAPANEMA SERRANA PR/SP/RJ",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI PARANAPANEMA SERRANA PR/SP/RJ",
+    "bankCode": "79086997"
+  },
+  {
+    "name": "COOP SICREDI PIONEIRA RS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI PIONEIRA RS",
+    "bankCode": "91586982"
+  },
+  {
+    "name": "COOP SICREDI PLAN CENTRAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI PLAN CENTRAL",
+    "bankCode": "10736214"
+  },
+  {
+    "name": "COOP SICREDI PLANALT DAS ÃGUAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI PLANALT DAS ÃGUAS",
+    "bankCode": "77984870"
+  },
+  {
+    "name": "COOP SICREDI PLANALTO RS/MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI PLANALTO RS/MG",
+    "bankCode": "88038260"
+  },
+  {
+    "name": "COOP SICREDI PROGRESSO PR/SP",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI PROGRESSO PR/SP",
+    "bankCode": "76059997"
+  },
+  {
+    "name": "COOP SICREDI RAIZES RS/SC/MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI RAIZES RS/SC/MG",
+    "bankCode": "88099247"
+  },
+  {
+    "name": "COOP SICREDI REG CENTRO RS/MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI REG CENTRO RS/MG",
+    "bankCode": "95594941"
+  },
+  {
+    "name": "COOP SICREDI REG PROD RS/SC/MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI REG PROD RS/SC/MG",
+    "bankCode": "89468565"
+  },
+  {
+    "name": "COOP SICREDI REGIÃO DOS VALES",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI REGIÃO DOS VALES",
+    "bankCode": "89126130"
+  },
+  {
+    "name": "COOP SICREDI RIO GRANDE DO NORTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI RIO GRANDE DO NORTE",
+    "bankCode": "70038237"
+  },
+  {
+    "name": "COOP SICREDI RIO PARANÃ",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI RIO PARANÃ",
+    "bankCode": "81206039"
+  },
+  {
+    "name": "COOP SICREDI RIO RJ",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI RIO RJ",
+    "bankCode": "72128440"
+  },
+  {
+    "name": "COOP SICREDI ROTA DAS TERRAS RS/MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI ROTA DAS TERRAS RS/MG",
+    "bankCode": "87510475"
+  },
+  {
+    "name": "COOP SICREDI SEMENTES DO SUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI SEMENTES DO SUL",
+    "bankCode": "87900411"
+  },
+  {
+    "name": "COOP SICREDI SERIGY SE/BA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI SERIGY SE/BA",
+    "bankCode": "2923389"
+  },
+  {
+    "name": "COOP SICREDI SERRANA RS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI SERRANA RS",
+    "bankCode": "90608712"
+  },
+  {
+    "name": "COOP SICREDI SOMA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI SOMA",
+    "bankCode": "82065285"
+  },
+  {
+    "name": "COOP SICREDI SUDOESTE MT/PA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI SUDOESTE MT/PA",
+    "bankCode": "32995755"
+  },
+  {
+    "name": "COOP SICREDI SUL DO MARANHÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI SUL DO MARANHÃO",
+    "bankCode": "26191078"
+  },
+  {
+    "name": "COOP SICREDI SUL MINAS RS/MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI SUL MINAS RS/MG",
+    "bankCode": "87784088"
+  },
+  {
+    "name": "COOP SICREDI SUL SC",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI SUL SC",
+    "bankCode": "3793242"
+  },
+  {
+    "name": "COOP SICREDI TRADIÃÃO RS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI TRADIÃÃO RS",
+    "bankCode": "3212823"
+  },
+  {
+    "name": "COOP SICREDI UNIÃO MS/TO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI UNIÃO MS/TO",
+    "bankCode": "24654881"
+  },
+  {
+    "name": "COOP SICREDI UNIÃO RS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI UNIÃO RS",
+    "bankCode": "88894548"
+  },
+  {
+    "name": "COOP SICREDI UNIESTADOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI UNIESTADOS",
+    "bankCode": "87780268"
+  },
+  {
+    "name": "COOP SICREDI UNIVALES MT/RO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI UNIVALES MT/RO",
+    "bankCode": "70431630"
+  },
+  {
+    "name": "COOP SICREDI VALE DO PIQUIRI",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI VALE DO PIQUIRI",
+    "bankCode": "81099491"
+  },
+  {
+    "name": "COOP SICREDI VALE DO RIO PARDO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI VALE DO RIO PARDO",
+    "bankCode": "95424891"
+  },
+  {
+    "name": "COOP SICREDI VALE LITORAL SC",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI VALE LITORAL SC",
+    "bankCode": "10348181"
+  },
+  {
+    "name": "COOP SICREDI VALE SÃO FRANCISCO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI VALE SÃO FRANCISCO",
+    "bankCode": "4237413"
+  },
+  {
+    "name": "COOP SICREDI VANGUARDA PR/SP/RJ",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI VANGUARDA PR/SP/RJ",
+    "bankCode": "78414067"
+  },
+  {
+    "name": "COOP SICREDI VL DO CERRADO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI VL DO CERRADO",
+    "bankCode": "32983165"
+  },
+  {
+    "name": "COOP SICREDI VL JAGUA ZN MATA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI VL JAGUA ZN MATA",
+    "bankCode": "87780284"
+  },
+  {
+    "name": "COOP SICREDI VLR SUSTENT PR/SP",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SICREDI VLR SUSTENT PR/SP",
+    "bankCode": "81706616"
+  },
+  {
+    "name": "COOP SUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SUL",
+    "bankCode": "5888589"
+  },
+  {
+    "name": "COOP SULCREDI AMPLEA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP SULCREDI AMPLEA",
+    "bankCode": "8253539"
+  },
+  {
+    "name": "COOP TRANSPOCRED",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP TRANSPOCRED",
+    "bankCode": "8075352"
+  },
+  {
+    "name": "COOP UNICRED VALE LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP UNICRED VALE LTDA.",
+    "bankCode": "73443863"
+  },
+  {
+    "name": "COOP ÃNILOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP ÃNILOS",
+    "bankCode": "2405189"
+  },
+  {
+    "name": "COOP UNIPRIME CREDICANA",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP UNIPRIME CREDICANA",
+    "bankCode": "44373041"
+  },
+  {
+    "name": "COOP UNIPRIME SUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP UNIPRIME SUL",
+    "bankCode": "1572667"
+  },
+  {
+    "name": "COOP UNIQUE BR LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP UNIQUE BR LTDA.",
+    "bankCode": "73647935"
+  },
+  {
+    "name": "COOP V. ALTO VALE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP V. ALTO VALE",
+    "bankCode": "16779741"
+  },
+  {
+    "name": "COOP VIACREDI",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP VIACREDI",
+    "bankCode": "82639451"
+  },
+  {
+    "name": "COOP. CRED. POUP. INVEST. CONEXÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP. CRED. POUP. INVEST. CONEXÃO",
+    "bankCode": "87733770"
+  },
+  {
+    "name": "COOPCENTRAL AILOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOPCENTRAL AILOS",
+    "bankCode": "5463212"
+  },
+  {
+    "name": "COOPCENTRAL DE ECON. E CRÃDITO SICOOB UNIMAIS RIO LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOPCENTRAL DE ECON. E CRÃDITO SICOOB UNIMAIS RIO LTDA.",
+    "bankCode": "14568725"
+  },
+  {
+    "name": "COOPCENTRAL SICOOB NOVA CENTRAL LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOPCENTRAL SICOOB NOVA CENTRAL LTDA.",
+    "bankCode": "33416108"
+  },
+  {
+    "name": "COOPER CARD IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOPER CARD IP",
+    "bankCode": "5938780"
+  },
+  {
+    "name": "COOPERATIVA DE CRÃDITO COOPERAÃÃO - SICREDI COOPERAÃÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOPERATIVA DE CRÃDITO COOPERAÃÃO - SICREDI COOPERAÃÃO",
+    "bankCode": "87779625"
+  },
+  {
+    "name": "COOPERATIVA DE CRÃDITO CREDIJEQUITINHONHA LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOPERATIVA DE CRÃDITO CREDIJEQUITINHONHA LTDA.",
+    "bankCode": "71243034"
+  },
+  {
+    "name": "COOPERATIVA DE CRÃDITO LIVRE ADMISSÃO SICOOB OURICRED",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOPERATIVA DE CRÃDITO LIVRE ADMISSÃO SICOOB OURICRED",
+    "bankCode": "2179673"
+  },
+  {
+    "name": "COOPSERVIDOR ES",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOPSERVIDOR ES",
+    "bankCode": "2475222"
+  },
+  {
+    "name": "CORA SCFI",
+    "code": "",
+    "country": "BR",
+    "acronym": "CORA SCFI",
+    "bankCode": "37880206"
+  },
+  {
+    "name": "CORPX BANK IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CORPX BANK IP S.A.",
+    "bankCode": "36741675"
+  },
+  {
+    "name": "CPC VALE DO RIO DOCE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CPC VALE DO RIO DOCE",
+    "bankCode": "25606237"
+  },
+  {
+    "name": "CRED.UFES",
+    "code": "",
+    "country": "BR",
+    "acronym": "CRED.UFES",
+    "bankCode": "27302181"
+  },
+  {
+    "name": "CREDCREA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDCREA",
+    "bankCode": "5979692"
+  },
+  {
+    "name": "CREDIALIANÃA CCR",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDIALIANÃA CCR",
+    "bankCode": "78157146"
+  },
+  {
+    "name": "CREDICOAMO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDICOAMO",
+    "bankCode": "81723108"
+  },
+  {
+    "name": "CREDIFIT SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDIFIT SCD S.A.",
+    "bankCode": "39676772"
+  },
+  {
+    "name": "CREDIHOME SCD",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDIHOME SCD",
+    "bankCode": "39416705"
+  },
+  {
+    "name": "CREDISAN CC",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDISAN CC",
+    "bankCode": "62109566"
+  },
+  {
+    "name": "CREDISIS - CENTRAL DE COOPERATIVAS DE CRÃDITO LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDISIS - CENTRAL DE COOPERATIVAS DE CRÃDITO LTDA.",
+    "bankCode": "4632856"
+  },
+  {
+    "name": "CREDISIS CAPITALCREDI - CCLA DO ACRE LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDISIS CAPITALCREDI - CCLA DO ACRE LTDA.",
+    "bankCode": "5439425"
+  },
+  {
+    "name": "CREDISIS COOPESA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDISIS COOPESA",
+    "bankCode": "6975532"
+  },
+  {
+    "name": "CREDISIS CREDIARI COOP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDISIS CREDIARI COOP LTDA.",
+    "bankCode": "3222753"
+  },
+  {
+    "name": "CREDISIS OESTE - CCI DO OESTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDISIS OESTE - CCI DO OESTE",
+    "bankCode": "4985665"
+  },
+  {
+    "name": "CREDISIS PRIMACREDI CC",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDISIS PRIMACREDI CC",
+    "bankCode": "26563270"
+  },
+  {
+    "name": "CREDISIS SUDOESTE/RO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDISIS SUDOESTE/RO",
+    "bankCode": "3985375"
+  },
+  {
+    "name": "CREDISIS/CREDISUL COOPERATIVA DE CRÃDITO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDISIS/CREDISUL COOPERATIVA DE CRÃDITO",
+    "bankCode": "7494300"
+  },
+  {
+    "name": "CREDITÃ S.A. CFI",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDITÃ S.A. CFI",
+    "bankCode": "12599971"
+  },
+  {
+    "name": "CREDJUST - CCM INTEGRANTES DA",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDJUST - CCM INTEGRANTES DA",
+    "bankCode": "4608925"
+  },
+  {
+    "name": "CREDSYSTEM SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREDSYSTEM SCD S.A.",
+    "bankCode": "39664698"
+  },
+  {
+    "name": "CREFISA S.A. CFI",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREFISA S.A. CFI",
+    "bankCode": "60779196"
+  },
+  {
+    "name": "CRESOL CONFEDERAÃÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CRESOL CONFEDERAÃÃO",
+    "bankCode": "10398952"
+  },
+  {
+    "name": "CREVISC",
+    "code": "",
+    "country": "BR",
+    "acronym": "CREVISC",
+    "bankCode": "10143743"
+  },
+  {
+    "name": "CRONOS SOLUÃÃES PARA FINTECHS",
+    "code": "",
+    "country": "BR",
+    "acronym": "CRONOS SOLUÃÃES PARA FINTECHS",
+    "bankCode": "31666182"
+  },
+  {
+    "name": "CSU DIGITAL IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CSU DIGITAL IP S.A.",
+    "bankCode": "1896779"
+  },
+  {
+    "name": "DELCRED SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "DELCRED SCD S.A.",
+    "bankCode": "38224857"
+  },
+  {
+    "name": "DGBK CREDIT S.A. - SOCIEDADE DE CRÃDITO DIRETO.",
+    "code": "",
+    "country": "BR",
+    "acronym": "DGBK CREDIT S.A. - SOCIEDADE DE CRÃDITO DIRETO.",
+    "bankCode": "48584954"
+  },
+  {
+    "name": "DIZCONTA",
+    "code": "",
+    "country": "BR",
+    "acronym": "DIZCONTA",
+    "bankCode": "39929224"
+  },
+  {
+    "name": "DLOCAL BRASIL IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "DLOCAL BRASIL IP S.A.",
+    "bankCode": "25021356"
+  },
+  {
+    "name": "DMCARD",
+    "code": "",
+    "country": "BR",
+    "acronym": "DMCARD",
+    "bankCode": "22371651"
+  },
+  {
+    "name": "DOCK IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "DOCK IP S.A.",
+    "bankCode": "13370835"
+  },
+  {
+    "name": "DOLARAPP",
+    "code": "",
+    "country": "BR",
+    "acronym": "DOLARAPP",
+    "bankCode": "27126513"
+  },
+  {
+    "name": "DOTZPAY IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "DOTZPAY IP",
+    "bankCode": "32024691"
+  },
+  {
+    "name": "E2 IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "E2 IP LTDA.",
+    "bankCode": "37205447"
+  },
+  {
+    "name": "EASY PAGO",
+    "code": "",
+    "country": "BR",
+    "acronym": "EASY PAGO",
+    "bankCode": "22181404"
+  },
+  {
+    "name": "EBANX IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "EBANX IP LTDA.",
+    "bankCode": "21018182"
+  },
+  {
+    "name": "EBURY BCO DE CÃMBIO S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "EBURY BCO DE CÃMBIO S.A.",
+    "bankCode": "13059145"
+  },
+  {
+    "name": "ECOMOVI",
+    "code": "",
+    "country": "BR",
+    "acronym": "ECOMOVI",
+    "bankCode": "33053580"
+  },
+  {
+    "name": "EFÃ S.A. - IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "EFÃ S.A. - IP",
+    "bankCode": "9089356"
+  },
+  {
+    "name": "EMPRESA DE BENEFÃCIOS IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "EMPRESA DE BENEFÃCIOS IP LTDA.",
+    "bankCode": "33449007"
+  },
+  {
+    "name": "ENOQ BANK",
+    "code": "",
+    "country": "BR",
+    "acronym": "ENOQ BANK",
+    "bankCode": "35990763"
+  },
+  {
+    "name": "E-PREPAG",
+    "code": "",
+    "country": "BR",
+    "acronym": "E-PREPAG",
+    "bankCode": "19037276"
+  },
+  {
+    "name": "EQUIS BANK",
+    "code": "",
+    "country": "BR",
+    "acronym": "EQUIS BANK",
+    "bankCode": "33641877"
+  },
+  {
+    "name": "EWALLY IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "EWALLY IP S.A.",
+    "bankCode": "714671"
+  },
+  {
+    "name": "EXPAG SOLUÃÃES EM PAGAMENTOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "EXPAG SOLUÃÃES EM PAGAMENTOS",
+    "bankCode": "32906701"
+  },
+  {
+    "name": "F D GOLD DTVM LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "F D GOLD DTVM LTDA",
+    "bankCode": "8673569"
+  },
+  {
+    "name": "FACILITA IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "FACILITA IP S.A.",
+    "bankCode": "10789035"
+  },
+  {
+    "name": "FFCRED SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "FFCRED SCD S.A.",
+    "bankCode": "39738065"
+  },
+  {
+    "name": "FIDUCIA SCMEPP LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "FIDUCIA SCMEPP LTDA",
+    "bankCode": "4307598"
+  },
+  {
+    "name": "FISERV DO BRASIL IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "FISERV DO BRASIL IP",
+    "bankCode": "4962772"
+  },
+  {
+    "name": "FITBANK IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "FITBANK IP",
+    "bankCode": "13203354"
+  },
+  {
+    "name": "FLAGSHIP IP LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "FLAGSHIP IP LTDA",
+    "bankCode": "23114447"
+  },
+  {
+    "name": "FURNAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "FURNAS",
+    "bankCode": "33370115"
+  },
+  {
+    "name": "G5 SCD SA",
+    "code": "",
+    "country": "BR",
+    "acronym": "G5 SCD SA",
+    "bankCode": "51212088"
+  },
+  {
+    "name": "GALAX PAY IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "GALAX PAY IP S.A.",
+    "bankCode": "30765018"
+  },
+  {
+    "name": "GAZINCRED S.A. SCFI",
+    "code": "",
+    "country": "BR",
+    "acronym": "GAZINCRED S.A. SCFI",
+    "bankCode": "11760553"
+  },
+  {
+    "name": "GERU SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "GERU SCD S.A.",
+    "bankCode": "37763847"
+  },
+  {
+    "name": "GLOBAL SCM LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "GLOBAL SCM LTDA",
+    "bankCode": "11165756"
+  },
+  {
+    "name": "GOOGLE PAY BRASIL IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "GOOGLE PAY BRASIL IP LTDA.",
+    "bankCode": "43394419"
+  },
+  {
+    "name": "GOWD IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "GOWD IP LTDA.",
+    "bankCode": "33630661"
+  },
+  {
+    "name": "GRECALE SOLUCOES EM MEIOS DE P",
+    "code": "",
+    "country": "BR",
+    "acronym": "GRECALE SOLUCOES EM MEIOS DE P",
+    "bankCode": "39331592"
+  },
+  {
+    "name": "GREENCRED CC",
+    "code": "",
+    "country": "BR",
+    "acronym": "GREENCRED CC",
+    "bankCode": "2347114"
+  },
+  {
+    "name": "HBI SCD",
+    "code": "",
+    "country": "BR",
+    "acronym": "HBI SCD",
+    "bankCode": "4849745"
+  },
+  {
+    "name": "HEMERA DTVM LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "HEMERA DTVM LTDA.",
+    "bankCode": "39669186"
+  },
+  {
+    "name": "HINOVA PAY IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "HINOVA PAY IP S.A.",
+    "bankCode": "27970567"
+  },
+  {
+    "name": "HR DIGITAL SCD",
+    "code": "",
+    "country": "BR",
+    "acronym": "HR DIGITAL SCD",
+    "bankCode": "44292580"
+  },
+  {
+    "name": "HSCM SCMEPP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "HSCM SCMEPP LTDA.",
+    "bankCode": "7693858"
+  },
+  {
+    "name": "HYPER WALLET IP LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "HYPER WALLET IP LTDA",
+    "bankCode": "7136847"
+  },
+  {
+    "name": "IBBA",
+    "code": "",
+    "country": "BR",
+    "acronym": "IBBA",
+    "bankCode": "2507780"
+  },
+  {
+    "name": "ID CTVM",
+    "code": "",
+    "country": "BR",
+    "acronym": "ID CTVM",
+    "bankCode": "16695922"
+  },
+  {
+    "name": "IDEA MAKER IP LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "IDEA MAKER IP LTDA",
+    "bankCode": "45860531"
+  },
+  {
+    "name": "INDEPENDÃNCIA CC",
+    "code": "",
+    "country": "BR",
+    "acronym": "INDEPENDÃNCIA CC",
+    "bankCode": "4306351"
+  },
+  {
+    "name": "INFOPAGO",
+    "code": "",
+    "country": "BR",
+    "acronym": "INFOPAGO",
+    "bankCode": "82842386"
+  },
+  {
+    "name": "INOVANTI IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "INOVANTI IP S.A.",
+    "bankCode": "37511258"
+  },
+  {
+    "name": "IP4Y IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "IP4Y IP LTDA.",
+    "bankCode": "11491029"
+  },
+  {
+    "name": "ISSUER IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "ISSUER IP LTDA.",
+    "bankCode": "34747388"
+  },
+  {
+    "name": "ITAÃ UNIBANCO S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "ITAÃ UNIBANCO S.A.",
+    "bankCode": "60701190"
+  },
+  {
+    "name": "IUGU IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "IUGU IP S.A.",
+    "bankCode": "15111975"
+  },
+  {
+    "name": "J17 - SCD S/A",
+    "code": "",
+    "country": "BR",
+    "acronym": "J17 - SCD S/A",
+    "bankCode": "40475846"
+  },
+  {
+    "name": "KANASTRA CFI",
+    "code": "",
+    "country": "BR",
+    "acronym": "KANASTRA CFI",
+    "bankCode": "49288113"
+  },
+  {
+    "name": "KREDIT IP S/A",
+    "code": "",
+    "country": "BR",
+    "acronym": "KREDIT IP S/A",
+    "bankCode": "34678263"
+  },
+  {
+    "name": "LISTO SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "LISTO SCD S.A.",
+    "bankCode": "34088029"
+  },
+  {
+    "name": "LOGCARD BRASIL",
+    "code": "",
+    "country": "BR",
+    "acronym": "LOGCARD BRASIL",
+    "bankCode": "19981015"
+  },
+  {
+    "name": "LYRA COLLECT",
+    "code": "",
+    "country": "BR",
+    "acronym": "LYRA COLLECT",
+    "bankCode": "31985422"
+  },
+  {
+    "name": "MAG IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "MAG IP LTDA.",
+    "bankCode": "21995256"
+  },
+  {
+    "name": "MAGALUPAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "MAGALUPAY",
+    "bankCode": "13884775"
+  },
+  {
+    "name": "MAGNUM SCD",
+    "code": "",
+    "country": "BR",
+    "acronym": "MAGNUM SCD",
+    "bankCode": "44683140"
+  },
+  {
+    "name": "MAPBANK",
+    "code": "",
+    "country": "BR",
+    "acronym": "MAPBANK",
+    "bankCode": "14615234"
+  },
+  {
+    "name": "MAPS IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "MAPS IP LTDA.",
+    "bankCode": "45548763"
+  },
+  {
+    "name": "MB INVESTIMENTOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "MB INVESTIMENTOS",
+    "bankCode": "28269650"
+  },
+  {
+    "name": "MEDCRED CC",
+    "code": "",
+    "country": "BR",
+    "acronym": "MEDCRED CC",
+    "bankCode": "3575699"
+  },
+  {
+    "name": "MÃNTORE IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "MÃNTORE IP S.A.",
+    "bankCode": "32343119"
+  },
+  {
+    "name": "MERCADO BITCOIN IP LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "MERCADO BITCOIN IP LTDA",
+    "bankCode": "11351086"
+  },
+  {
+    "name": "MERCADO PAGO IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "MERCADO PAGO IP LTDA.",
+    "bankCode": "10573521"
+  },
+  {
+    "name": "MH SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "MH SCD S.A.",
+    "bankCode": "51834986"
+  },
+  {
+    "name": "MICROCASH SCMEPP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "MICROCASH SCMEPP LTDA.",
+    "bankCode": "45756448"
+  },
+  {
+    "name": "MIDWAY S.A. - SCFI",
+    "code": "",
+    "country": "BR",
+    "acronym": "MIDWAY S.A. - SCFI",
+    "bankCode": "9464032"
+  },
+  {
+    "name": "MODABANK",
+    "code": "",
+    "country": "BR",
+    "acronym": "MODABANK",
+    "bankCode": "37424665"
+  },
+  {
+    "name": "MONETARIE SCD",
+    "code": "",
+    "country": "BR",
+    "acronym": "MONETARIE SCD",
+    "bankCode": "46026562"
+  },
+  {
+    "name": "MONEY CLOUD IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "MONEY CLOUD IP S.A.",
+    "bankCode": "30153943"
+  },
+  {
+    "name": "MOUNT PAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "MOUNT PAY",
+    "bankCode": "31166683"
+  },
+  {
+    "name": "MT IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "MT IP S.A.",
+    "bankCode": "50871921"
+  },
+  {
+    "name": "MUITO IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "MUITO IP LTDA.",
+    "bankCode": "39576810"
+  },
+  {
+    "name": "NDD",
+    "code": "",
+    "country": "BR",
+    "acronym": "NDD",
+    "bankCode": "6255692"
+  },
+  {
+    "name": "NEL3 PAY IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "NEL3 PAY IP LTDA.",
+    "bankCode": "12573115"
+  },
+  {
+    "name": "NEON PAGAMENTOS S.A. IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "NEON PAGAMENTOS S.A. IP",
+    "bankCode": "20855875"
+  },
+  {
+    "name": "NEXT SERVICOS E NEGOCIOS LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "NEXT SERVICOS E NEGOCIOS LTDA",
+    "bankCode": "37319859"
+  },
+  {
+    "name": "NG CASH IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "NG CASH IP",
+    "bankCode": "40710595"
+  },
+  {
+    "name": "NOVO BCO CONTINENTAL S.A. - BM",
+    "code": "",
+    "country": "BR",
+    "acronym": "NOVO BCO CONTINENTAL S.A. - BM",
+    "bankCode": "74828799"
+  },
+  {
+    "name": "NSTECH IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "NSTECH IP S.A.",
+    "bankCode": "1648418"
+  },
+  {
+    "name": "NU PAGAMENTOS - IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "NU PAGAMENTOS - IP",
+    "bankCode": "18236120"
+  },
+  {
+    "name": "NUMBRS SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "NUMBRS SCD S.A.",
+    "bankCode": "38129006"
+  },
+  {
+    "name": "NUVENDE",
+    "code": "",
+    "country": "BR",
+    "acronym": "NUVENDE",
+    "bankCode": "38297374"
+  },
+  {
+    "name": "OKTO IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "OKTO IP",
+    "bankCode": "30980539"
+  },
+  {
+    "name": "OMNI BANCO S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "OMNI BANCO S.A.",
+    "bankCode": "60850229"
+  },
+  {
+    "name": "ONEKEY PAYMENTS IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "ONEKEY PAYMENTS IP S.A.",
+    "bankCode": "35210410"
+  },
+  {
+    "name": "ONLY UP",
+    "code": "",
+    "country": "BR",
+    "acronym": "ONLY UP",
+    "bankCode": "29477089"
+  },
+  {
+    "name": "OPEA SCD",
+    "code": "",
+    "country": "BR",
+    "acronym": "OPEA SCD",
+    "bankCode": "39519944"
+  },
+  {
+    "name": "OPEN PGTOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "OPEN PGTOS",
+    "bankCode": "36093650"
+  },
+  {
+    "name": "ORUS PRIME DIGITAL LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "ORUS PRIME DIGITAL LTDA",
+    "bankCode": "23791922"
+  },
+  {
+    "name": "OURIBANK S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "OURIBANK S.A.",
+    "bankCode": "78632767"
+  },
+  {
+    "name": "OWEM PAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "OWEM PAY",
+    "bankCode": "37839059"
+  },
+  {
+    "name": "PAGARE",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAGARE",
+    "bankCode": "71962609"
+  },
+  {
+    "name": "PAGARE IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAGARE IP S.A.",
+    "bankCode": "25104230"
+  },
+  {
+    "name": "PAGBEM",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAGBEM",
+    "bankCode": "23149892"
+  },
+  {
+    "name": "PAGCERTO IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAGCERTO IP LTDA.",
+    "bankCode": "17819084"
+  },
+  {
+    "name": "PAGME IP LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAGME IP LTDA",
+    "bankCode": "34471744"
+  },
+  {
+    "name": "PAGOL SCD",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAGOL SCD",
+    "bankCode": "48176336"
+  },
+  {
+    "name": "PAGPRIME IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAGPRIME IP",
+    "bankCode": "30944783"
+  },
+  {
+    "name": "PAGSEGURO INTERNET IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAGSEGURO INTERNET IP S.A.",
+    "bankCode": "8561701"
+  },
+  {
+    "name": "PAGSMILE IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAGSMILE IP LTDA.",
+    "bankCode": "37753531"
+  },
+  {
+    "name": "PAGSTAR IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAGSTAR IP S.A.",
+    "bankCode": "40478262"
+  },
+  {
+    "name": "PAGUEVELOZ IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAGUEVELOZ IP LTDA.",
+    "bankCode": "3816413"
+  },
+  {
+    "name": "PARANA BCO S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PARANA BCO S.A.",
+    "bankCode": "14388334"
+  },
+  {
+    "name": "PARATI - CFI S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PARATI - CFI S.A.",
+    "bankCode": "3311443"
+  },
+  {
+    "name": "PAY BROKERS IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAY BROKERS IP",
+    "bankCode": "40820176"
+  },
+  {
+    "name": "PAY TUDO SOLUÃÃES E SERVIÃOS E",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAY TUDO SOLUÃÃES E SERVIÃOS E",
+    "bankCode": "30015936"
+  },
+  {
+    "name": "PAY2ALL IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAY2ALL IP LTDA.",
+    "bankCode": "44815065"
+  },
+  {
+    "name": "PAY4FUN IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAY4FUN IP S.A.",
+    "bankCode": "20757199"
+  },
+  {
+    "name": "PAYMEE BRASIL IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAYMEE BRASIL IP S.A.",
+    "bankCode": "28683892"
+  },
+  {
+    "name": "PEFISA S.A. - C.F.I.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PEFISA S.A. - C.F.I.",
+    "bankCode": "43180355"
+  },
+  {
+    "name": "PGWEB IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PGWEB IP LTDA.",
+    "bankCode": "23197081"
+  },
+  {
+    "name": "PHI PAGAMENTOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "PHI PAGAMENTOS",
+    "bankCode": "31752308"
+  },
+  {
+    "name": "PICPAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "PICPAY",
+    "bankCode": "22896431"
+  },
+  {
+    "name": "PICPAY BANK - BANCO MÃLTIPLO S.A",
+    "code": "",
+    "country": "BR",
+    "acronym": "PICPAY BANK - BANCO MÃLTIPLO S.A",
+    "bankCode": "9516419"
+  },
+  {
+    "name": "PINBANK IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "PINBANK IP",
+    "bankCode": "17079937"
+  },
+  {
+    "name": "PINPAG IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PINPAG IP S.A.",
+    "bankCode": "17768068"
+  },
+  {
+    "name": "PLANIUM INSTITUICAO DE PAGAMEN",
+    "code": "",
+    "country": "BR",
+    "acronym": "PLANIUM INSTITUICAO DE PAGAMEN",
+    "bankCode": "38314747"
+  },
+  {
+    "name": "PLANNER SOCIEDADE DE CRÃDITO DIRETO",
+    "code": "",
+    "country": "BR",
+    "acronym": "PLANNER SOCIEDADE DE CRÃDITO DIRETO",
+    "bankCode": "5684234"
+  },
+  {
+    "name": "PROTEGE CASH",
+    "code": "",
+    "country": "BR",
+    "acronym": "PROTEGE CASH",
+    "bankCode": "40276692"
+  },
+  {
+    "name": "PROTOTYPE IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PROTOTYPE IP S.A.",
+    "bankCode": "35713491"
+  },
+  {
+    "name": "PROVER PROMOCAO DE VENDAS IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PROVER PROMOCAO DE VENDAS IP LTDA.",
+    "bankCode": "20308187"
+  },
+  {
+    "name": "QESH IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "QESH IP LTDA.",
+    "bankCode": "31818873"
+  },
+  {
+    "name": "QI SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "QI SCD S.A.",
+    "bankCode": "32402502"
+  },
+  {
+    "name": "QUERO-QUERO VERDECARD IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "QUERO-QUERO VERDECARD IP S.A.",
+    "bankCode": "1722480"
+  },
+  {
+    "name": "REAG IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "REAG IP",
+    "bankCode": "36272465"
+  },
+  {
+    "name": "REAG TRUST DTVM",
+    "code": "",
+    "country": "BR",
+    "acronym": "REAG TRUST DTVM",
+    "bankCode": "34829992"
+  },
+  {
+    "name": "RECARGAPAY IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "RECARGAPAY IP LTDA.",
+    "bankCode": "11275560"
+  },
+  {
+    "name": "REPASSES FINANCEIROS E SOLUCOES TECNOLOGICAS IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "REPASSES FINANCEIROS E SOLUCOES TECNOLOGICAS IP S.A.",
+    "bankCode": "40473435"
+  },
+  {
+    "name": "REVOLUT SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "REVOLUT SCD S.A.",
+    "bankCode": "51342763"
+  },
+  {
+    "name": "ROADCARD IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "ROADCARD IP S.A.",
+    "bankCode": "12815827"
+  },
+  {
+    "name": "S3 BANK IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "S3 BANK IP S.A.",
+    "bankCode": "31711972"
+  },
+  {
+    "name": "SANTS SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "SANTS SCD S.A.",
+    "bankCode": "52440987"
+  },
+  {
+    "name": "SAQ",
+    "code": "",
+    "country": "BR",
+    "acronym": "SAQ",
+    "bankCode": "35535240"
+  },
+  {
+    "name": "SEFER INVESTIMENTOS DTVM LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "SEFER INVESTIMENTOS DTVM LTDA",
+    "bankCode": "329598"
+  },
+  {
+    "name": "SER FINANCE SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "SER FINANCE SCD S.A.",
+    "bankCode": "47873449"
+  },
+  {
+    "name": "SERVELOJA",
+    "code": "",
+    "country": "BR",
+    "acronym": "SERVELOJA",
+    "bankCode": "10773370"
+  },
+  {
+    "name": "SERVICOOP",
+    "code": "",
+    "country": "BR",
+    "acronym": "SERVICOOP",
+    "bankCode": "3973814"
+  },
+  {
+    "name": "SERVNET IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "SERVNET IP LTDA.",
+    "bankCode": "29759316"
+  },
+  {
+    "name": "SHOPEE",
+    "code": "",
+    "country": "BR",
+    "acronym": "SHOPEE",
+    "bankCode": "38372267"
+  },
+  {
+    "name": "SICOOB AMAZÃNIA",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB AMAZÃNIA",
+    "bankCode": "5203605"
+  },
+  {
+    "name": "SICOOB CENTRAL NE",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB CENTRAL NE",
+    "bankCode": "70116611"
+  },
+  {
+    "name": "SICOOB COCRED CC",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB COCRED CC",
+    "bankCode": "71328769"
+  },
+  {
+    "name": "SICOOB CONEXÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB CONEXÃO",
+    "bankCode": "32430233"
+  },
+  {
+    "name": "SICOOB COOPERMAIS",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB COOPERMAIS",
+    "bankCode": "31804966"
+  },
+  {
+    "name": "SICOOB COOPVALE",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB COOPVALE",
+    "bankCode": "33924028"
+  },
+  {
+    "name": "SICOOB CRED COPERCANA",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB CRED COPERCANA",
+    "bankCode": "64739121"
+  },
+  {
+    "name": "SICOOB CREDFAZ",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB CREDFAZ",
+    "bankCode": "952415"
+  },
+  {
+    "name": "SICOOB CREDICONSUMO CC",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB CREDICONSUMO CC",
+    "bankCode": "47074323"
+  },
+  {
+    "name": "SICOOB CREDICOOP",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB CREDICOOP",
+    "bankCode": "41931221"
+  },
+  {
+    "name": "SICOOB CREDIGOIÃS CC",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB CREDIGOIÃS CC",
+    "bankCode": "37255049"
+  },
+  {
+    "name": "SICOOB CREDILEITE",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB CREDILEITE",
+    "bankCode": "86585049"
+  },
+  {
+    "name": "SICOOB CREDIMED - CCLA DE UBERABA LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB CREDIMED - CCLA DE UBERABA LTDA",
+    "bankCode": "71336432"
+  },
+  {
+    "name": "SICOOB CREDIROCHAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB CREDIROCHAS",
+    "bankCode": "3358914"
+  },
+  {
+    "name": "SICOOB CREDISUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB CREDISUL",
+    "bankCode": "3632872"
+  },
+  {
+    "name": "SICOOB CREDIUNIÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB CREDIUNIÃO",
+    "bankCode": "2448839"
+  },
+  {
+    "name": "SICOOB CRESSEM - CECM SERV MUN REG METR VALE PARAIBA E LITOR",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB CRESSEM - CECM SERV MUN REG METR VALE PARAIBA E LITOR",
+    "bankCode": "54190525"
+  },
+  {
+    "name": "SICOOB DFMIL",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB DFMIL",
+    "bankCode": "4649337"
+  },
+  {
+    "name": "SICOOB EMPRESARIAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB EMPRESARIAL",
+    "bankCode": "5856736"
+  },
+  {
+    "name": "SICOOB EMPRESAS RJ",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB EMPRESAS RJ",
+    "bankCode": "4120633"
+  },
+  {
+    "name": "SICOOB FLUMINENSE",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB FLUMINENSE",
+    "bankCode": "2931668"
+  },
+  {
+    "name": "SICOOB JUDICIÃRIO",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB JUDICIÃRIO",
+    "bankCode": "37076205"
+  },
+  {
+    "name": "SICOOB LESTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB LESTE",
+    "bankCode": "2493000"
+  },
+  {
+    "name": "SICOOB POTIGUAR",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB POTIGUAR",
+    "bankCode": "2382755"
+  },
+  {
+    "name": "SICOOB SUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB SUL",
+    "bankCode": "32467086"
+  },
+  {
+    "name": "SICOOB SUL-LITORÃNEO",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB SUL-LITORÃNEO",
+    "bankCode": "32474884"
+  },
+  {
+    "name": "SICOOB SUL-SERRANO",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB SUL-SERRANO",
+    "bankCode": "815319"
+  },
+  {
+    "name": "SICOOB UFVCREDI",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB UFVCREDI",
+    "bankCode": "2794761"
+  },
+  {
+    "name": "SICOOB UNIMAIS CENTRO LESTE PAULISTA",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB UNIMAIS CENTRO LESTE PAULISTA",
+    "bankCode": "1259518"
+  },
+  {
+    "name": "SICOOB VALE DOS PINHAIS",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICOOB VALE DOS PINHAIS",
+    "bankCode": "86791837"
+  },
+  {
+    "name": "SICREDI CAMPOS GERAIS E GRANDE CURITIBA PR/SP",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICREDI CAMPOS GERAIS E GRANDE CURITIBA PR/SP",
+    "bankCode": "81466286"
+  },
+  {
+    "name": "SICREDI CEARÃ",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICREDI CEARÃ",
+    "bankCode": "72257793"
+  },
+  {
+    "name": "SICREDI CREDUNI",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICREDI CREDUNI",
+    "bankCode": "3428338"
+  },
+  {
+    "name": "SICREDI INTEGRAÃÃO DE ESTADOS RS/SC/MG",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICREDI INTEGRAÃÃO DE ESTADOS RS/SC/MG",
+    "bankCode": "87781530"
+  },
+  {
+    "name": "SICREDI RECIFE",
+    "code": "",
+    "country": "BR",
+    "acronym": "SICREDI RECIFE",
+    "bankCode": "70241658"
+  },
+  {
+    "name": "SIMPAUL",
+    "code": "",
+    "country": "BR",
+    "acronym": "SIMPAUL",
+    "bankCode": "68757681"
+  },
+  {
+    "name": "SINGULARE CTVM S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "SINGULARE CTVM S.A.",
+    "bankCode": "62285390"
+  },
+  {
+    "name": "SISPRIME DO BRASIL - COOP",
+    "code": "",
+    "country": "BR",
+    "acronym": "SISPRIME DO BRASIL - COOP",
+    "bankCode": "2398976"
+  },
+  {
+    "name": "SMART SOLUTIONS GROUP IP LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "SMART SOLUTIONS GROUP IP LTDA",
+    "bankCode": "37470405"
+  },
+  {
+    "name": "SOC CC SICOOB COOPERE",
+    "code": "",
+    "country": "BR",
+    "acronym": "SOC CC SICOOB COOPERE",
+    "bankCode": "73398646"
+  },
+  {
+    "name": "SOCIAL BANK S/A",
+    "code": "",
+    "country": "BR",
+    "acronym": "SOCIAL BANK S/A",
+    "bankCode": "15173776"
+  },
+  {
+    "name": "SOCINAL S.A. CFI",
+    "code": "",
+    "country": "BR",
+    "acronym": "SOCINAL S.A. CFI",
+    "bankCode": "3881423"
+  },
+  {
+    "name": "SOCRED SA - SCMEPP",
+    "code": "",
+    "country": "BR",
+    "acronym": "SOCRED SA - SCMEPP",
+    "bankCode": "9210106"
+  },
+  {
+    "name": "SOMAPAY SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "SOMAPAY SCD S.A.",
+    "bankCode": "44705774"
+  },
+  {
+    "name": "STARK BANK S.A. - IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "STARK BANK S.A. - IP",
+    "bankCode": "20018183"
+  },
+  {
+    "name": "STARK SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "STARK SCD S.A.",
+    "bankCode": "39908427"
+  },
+  {
+    "name": "STN",
+    "code": "",
+    "country": "BR",
+    "acronym": "STN",
+    "bankCode": "394460"
+  },
+  {
+    "name": "STONE IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "STONE IP S.A.",
+    "bankCode": "16501555"
+  },
+  {
+    "name": "SUMUP SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "SUMUP SCD S.A.",
+    "bankCode": "37241230"
+  },
+  {
+    "name": "SUN SOLUCOES DE PAGAMENTOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "SUN SOLUCOES DE PAGAMENTOS",
+    "bankCode": "28595756"
+  },
+  {
+    "name": "SUPERLÃGICA SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "SUPERLÃGICA SCD S.A.",
+    "bankCode": "43599047"
+  },
+  {
+    "name": "SWAP IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "SWAP IP S.A.",
+    "bankCode": "31680151"
+  },
+  {
+    "name": "TARGET BANK",
+    "code": "",
+    "country": "BR",
+    "acronym": "TARGET BANK",
+    "bankCode": "14821124"
+  },
+  {
+    "name": "TRANSFERO IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "TRANSFERO IP LTDA.",
+    "bankCode": "47133056"
+  },
+  {
+    "name": "TRINUS SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "TRINUS SCD S.A.",
+    "bankCode": "40654622"
+  },
+  {
+    "name": "TRIO IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "TRIO IP LTDA.",
+    "bankCode": "49931906"
+  },
+  {
+    "name": "TYCOON TECHNOLOGY IIP S.A",
+    "code": "",
+    "country": "BR",
+    "acronym": "TYCOON TECHNOLOGY IIP S.A",
+    "bankCode": "26615279"
+  },
+  {
+    "name": "UNAVANTI SCD S/A",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNAVANTI SCD S/A",
+    "bankCode": "42047025"
+  },
+  {
+    "name": "UNICRED AMPLA",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNICRED AMPLA",
+    "bankCode": "71163315"
+  },
+  {
+    "name": "UNICRED COALIZÃO",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNICRED COALIZÃO",
+    "bankCode": "4445917"
+  },
+  {
+    "name": "UNICRED DO BRASIL",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNICRED DO BRASIL",
+    "bankCode": "315557"
+  },
+  {
+    "name": "UNICRED ELEVA",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNICRED ELEVA",
+    "bankCode": "95163002"
+  },
+  {
+    "name": "UNICRED HORIZONTES",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNICRED HORIZONTES",
+    "bankCode": "1526924"
+  },
+  {
+    "name": "UNICRED PIONEIRA",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNICRED PIONEIRA",
+    "bankCode": "94243839"
+  },
+  {
+    "name": "UNICRED PONTO CAPITAL",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNICRED PONTO CAPITAL",
+    "bankCode": "2641032"
+  },
+  {
+    "name": "UNICRED PROSPERAR",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNICRED PROSPERAR",
+    "bankCode": "1705236"
+  },
+  {
+    "name": "UNICRED SUDOESTE DA BAHIA",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNICRED SUDOESTE DA BAHIA",
+    "bankCode": "2833202"
+  },
+  {
+    "name": "UNICRED SUL DE MINAS",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNICRED SUL DE MINAS",
+    "bankCode": "71418784"
+  },
+  {
+    "name": "UNIPRIME COOPCENTRAL LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNIPRIME COOPCENTRAL LTDA.",
+    "bankCode": "3046391"
+  },
+  {
+    "name": "UNIPRIME DO IGUAÃU - CC POUP INV",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNIPRIME DO IGUAÃU - CC POUP INV",
+    "bankCode": "1848322"
+  },
+  {
+    "name": "UNIPRIME PIONEIRA CC",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNIPRIME PIONEIRA CC",
+    "bankCode": "1286361"
+  },
+  {
+    "name": "UNLIMIT IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "UNLIMIT IP LTDA.",
+    "bankCode": "35542555"
+  },
+  {
+    "name": "UP.P SEP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "UP.P SEP S.A.",
+    "bankCode": "35977097"
+  },
+  {
+    "name": "URBANO S.A. SCFI",
+    "code": "",
+    "country": "BR",
+    "acronym": "URBANO S.A. SCFI",
+    "bankCode": "53842122"
+  },
+  {
+    "name": "UY3 SCD S/A",
+    "code": "",
+    "country": "BR",
+    "acronym": "UY3 SCD S/A",
+    "bankCode": "39587424"
+  },
+  {
+    "name": "UZZIPAY IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "UZZIPAY IP S.A.",
+    "bankCode": "32192325"
+  },
+  {
+    "name": "V3 IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "V3 IP S.A.",
+    "bankCode": "38320462"
+  },
+  {
+    "name": "VALEPAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "VALEPAY",
+    "bankCode": "28220872"
+  },
+  {
+    "name": "VALLOO PAGAMENTOS",
+    "code": "",
+    "country": "BR",
+    "acronym": "VALLOO PAGAMENTOS",
+    "bankCode": "23273917"
+  },
+  {
+    "name": "VBS SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "VBS SCD S.A.",
+    "bankCode": "54264235"
+  },
+  {
+    "name": "VIATECH IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "VIATECH IP LTDA.",
+    "bankCode": "35858847"
+  },
+  {
+    "name": "VILLELA IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "VILLELA IP S.A.",
+    "bankCode": "33423888"
+  },
+  {
+    "name": "VOLUS IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "VOLUS IP",
+    "bankCode": "3817702"
+  },
+  {
+    "name": "VORTX DTVM LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "VORTX DTVM LTDA.",
+    "bankCode": "22610500"
+  },
+  {
+    "name": "WE PAY OUT IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "WE PAY OUT IP LTDA.",
+    "bankCode": "32708748"
+  },
+  {
+    "name": "WILL FINANCEIRA S.A.CFI",
+    "code": "",
+    "country": "BR",
+    "acronym": "WILL FINANCEIRA S.A.CFI",
+    "bankCode": "23862762"
+  },
+  {
+    "name": "WISE BRASIL IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "WISE BRASIL IP LTDA.",
+    "bankCode": "40571694"
+  },
+  {
+    "name": "WISEPAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "WISEPAY",
+    "bankCode": "28806775"
+  },
+  {
+    "name": "WOOVI IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "WOOVI IP LTDA.",
+    "bankCode": "54811417"
+  },
+  {
+    "name": "WORK 8 INSTITUIÃÃO DE PAGAMENT",
+    "code": "",
+    "country": "BR",
+    "acronym": "WORK 8 INSTITUIÃÃO DE PAGAMENT",
+    "bankCode": "29408213"
+  },
+  {
+    "name": "XISNET",
+    "code": "",
+    "country": "BR",
+    "acronym": "XISNET",
+    "bankCode": "7322044"
+  },
+  {
+    "name": "YAW IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "YAW IP S.A.",
+    "bankCode": "37911077"
+  },
+  {
+    "name": "Z1 IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "Z1 IP LTDA.",
+    "bankCode": "35810871"
+  },
+  {
+    "name": "ZEMA CFI S/A",
+    "code": "",
+    "country": "BR",
+    "acronym": "ZEMA CFI S/A",
+    "bankCode": "5351887"
+  },
+  {
+    "name": "ZERO IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "ZERO IP",
+    "bankCode": "26264220"
+  },
+  {
+    "name": "ZIG",
+    "code": "",
+    "country": "BR",
+    "acronym": "ZIG",
+    "bankCode": "26356125"
+  },
+  {
+    "name": "Z-ON SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "Z-ON SCD S.A.",
+    "bankCode": "52586293"
+  },
+  {
+    "name": "ZOOP MEIOS DE PAGAMENTO",
+    "code": "",
+    "country": "BR",
+    "acronym": "ZOOP MEIOS DE PAGAMENTO",
+    "bankCode": "19468242"
+  },
+  {
+    "name": "B91",
+    "code": "",
+    "country": "BR",
+    "acronym": "B91",
+    "bankCode": "33735811"
+  },
+  {
+    "name": "BASS PAGO",
+    "code": "",
+    "country": "BR",
+    "acronym": "BASS PAGO",
+    "bankCode": "37293930"
+  },
+  {
+    "name": "BFC SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BFC SCD S.A.",
+    "bankCode": "59396084"
+  },
+  {
+    "name": "BIT SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "BIT SCD S.A.",
+    "bankCode": "58367961"
+  },
+  {
+    "name": "CLUBE AGRO",
+    "code": "",
+    "country": "BR",
+    "acronym": "CLUBE AGRO",
+    "bankCode": "31841474"
+  },
+  {
+    "name": "CONTAAZUL IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "CONTAAZUL IP LTDA.",
+    "bankCode": "47381104"
+  },
+  {
+    "name": "COOP CREDI&GENTE",
+    "code": "",
+    "country": "BR",
+    "acronym": "COOP CREDI&GENTE",
+    "bankCode": "82096447"
+  },
+  {
+    "name": "DELIVERY PAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "DELIVERY PAY",
+    "bankCode": "30612886"
+  },
+  {
+    "name": "DELTA GLOBAL SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "DELTA GLOBAL SCD S.A.",
+    "bankCode": "55823094"
+  },
+  {
+    "name": "DM SA CFI",
+    "code": "",
+    "country": "BR",
+    "acronym": "DM SA CFI",
+    "bankCode": "91669747"
+  },
+  {
+    "name": "FACTA S.A. CFI",
+    "code": "",
+    "country": "BR",
+    "acronym": "FACTA S.A. CFI",
+    "bankCode": "15581638"
+  },
+  {
+    "name": "INCO SEP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "INCO SEP S.A.",
+    "bankCode": "35340796"
+  },
+  {
+    "name": "INTEGRAÃÃO DE CRÃDITO E COBRANÃA SCD",
+    "code": "",
+    "country": "BR",
+    "acronym": "INTEGRAÃÃO DE CRÃDITO E COBRANÃA SCD",
+    "bankCode": "51118615"
+  },
+  {
+    "name": "INTRA DTVM",
+    "code": "",
+    "country": "BR",
+    "acronym": "INTRA DTVM",
+    "bankCode": "15489568"
+  },
+  {
+    "name": "IPAG PAGAMENTOS DIGITAIS",
+    "code": "",
+    "country": "BR",
+    "acronym": "IPAG PAGAMENTOS DIGITAIS",
+    "bankCode": "27810157"
+  },
+  {
+    "name": "KIKAI SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "KIKAI SCD S.A.",
+    "bankCode": "43978697"
+  },
+  {
+    "name": "LB PAY IP LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "LB PAY IP LTDA",
+    "bankCode": "52833288"
+  },
+  {
+    "name": "LIBERCARD",
+    "code": "",
+    "country": "BR",
+    "acronym": "LIBERCARD",
+    "bankCode": "9370323"
+  },
+  {
+    "name": "LIDER",
+    "code": "",
+    "country": "BR",
+    "acronym": "LIDER",
+    "bankCode": "28494518"
+  },
+  {
+    "name": "MONERY IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "MONERY IP S.A.",
+    "bankCode": "46505612"
+  },
+  {
+    "name": "MW IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "MW IP LTDA.",
+    "bankCode": "53822116"
+  },
+  {
+    "name": "MY FIRST",
+    "code": "",
+    "country": "BR",
+    "acronym": "MY FIRST",
+    "bankCode": "17028875"
+  },
+  {
+    "name": "NVIO BRASIL SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "NVIO BRASIL SCD S.A.",
+    "bankCode": "51118718"
+  },
+  {
+    "name": "OZ PAY",
+    "code": "",
+    "country": "BR",
+    "acronym": "OZ PAY",
+    "bankCode": "39157329"
+  },
+  {
+    "name": "PAGHIPER IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "PAGHIPER IP LTDA.",
+    "bankCode": "20110153"
+  },
+  {
+    "name": "PPRO BRASIL",
+    "code": "",
+    "country": "BR",
+    "acronym": "PPRO BRASIL",
+    "bankCode": "21041840"
+  },
+  {
+    "name": "REPOM",
+    "code": "",
+    "country": "BR",
+    "acronym": "REPOM",
+    "bankCode": "65697260"
+  },
+  {
+    "name": "SEM PARAR IP",
+    "code": "",
+    "country": "BR",
+    "acronym": "SEM PARAR IP",
+    "bankCode": "4088208"
+  },
+  {
+    "name": "SEQUOIAPAY INSTITUICAO DE PAGA",
+    "code": "",
+    "country": "BR",
+    "acronym": "SEQUOIAPAY INSTITUICAO DE PAGA",
+    "bankCode": "36059974"
+  },
+  {
+    "name": "SIMPAY PAGAMENTOS LTDA",
+    "code": "",
+    "country": "BR",
+    "acronym": "SIMPAY PAGAMENTOS LTDA",
+    "bankCode": "33982918"
+  },
+  {
+    "name": "SRM BANK",
+    "code": "",
+    "country": "BR",
+    "acronym": "SRM BANK",
+    "bankCode": "22575466"
+  },
+  {
+    "name": "SUDACRED SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "SUDACRED SCD S.A.",
+    "bankCode": "20251847"
+  },
+  {
+    "name": "VIVO PAY SCD S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "VIVO PAY SCD S.A.",
+    "bankCode": "57487987"
+  },
+  {
+    "name": "VUE IP S.A.",
+    "code": "",
+    "country": "BR",
+    "acronym": "VUE IP S.A.",
+    "bankCode": "56106523"
+  },
+  {
+    "name": "WNT CAPITAL DTVM",
+    "code": "",
+    "country": "BR",
+    "acronym": "WNT CAPITAL DTVM",
+    "bankCode": "45854066"
+  },
+  {
+    "name": "ZIMPLER BRASIL IP LTDA.",
+    "code": "",
+    "country": "BR",
+    "acronym": "ZIMPLER BRASIL IP LTDA.",
+    "bankCode": "44704839"
+  }
+]
